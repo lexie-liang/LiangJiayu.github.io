@@ -8,7 +8,7 @@ layout: homepage
 I'm a fourth-year undergraduate in English Language and Literature at <a href="https://www.sdu.edu.cn/" target="_blank"> Shandong University</a>,
 <!-- 's <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a> -->
 <!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
-working under the mentorship of Prof.<a href="https://scholar.google.com/citations?hl=zh-TW&user=oQzY0ZwAAAAJ" target="_blank"> Hao Zhang</a>. My research interestes include experimental phonetics, second/foreign language acquisition, and psycholinguistics. My study uses behavioral (e.g. eye-tracking) method to test how musical aptitude influences the production and perception of English vowels by Mandarin-speaking L2 learners. I recently started studying the efficacy of musical training and sleep-mediated memory consolidation in learning Cantonese level tones by tonal (e.g. Mandarin) and non-tonal language (e.g. English and Korean) speakers. 
+working under the mentorship of Prof.<a href="https://scholar.google.com/citations?hl=zh-TW&user=oQzY0ZwAAAAJ" target="_blank"> Hao Zhang</a>. My research areas include experimental phonetics, second/foreign language acquisition, and psycholinguistics. My study uses behavioral (e.g. eye-tracking) method to test how musical aptitude influences the production and perception of English vowels by Mandarin-speaking L2 learners. I recently started studying the efficacy of musical training and sleep-mediated memory consolidation in learning Cantonese level tones by tonal (e.g. Mandarin) and non-tonal language (e.g. English and Korean) speakers. 
 
 
 
@@ -17,9 +17,20 @@ working under the mentorship of Prof.<a href="https://scholar.google.com/citatio
 - **Cross-domain Transfer Effects between Music and Language Experience**
 - **Age-related Differences in Language**
 
+## Publication & Manuscripts
+- **Liang, J., Zhang, H. Music Experience Facilitates Lexical and Sub-lexical Processing of English Vowels: An Eye-tracking Study. (in preparation)**
+- **Liang, J., Zhang, H. Mandarin-speaking Musicians Show Enhanced Perception-Production Link of L2 English Vowels. (in preparation)** 
+- **Zhang, H., Liang, J. (co-author). Benefits of Melodic Training on the Overnight Consolidation of Cantonese Level Tones by Korean and Chinese Older Adults. (in preparation)**
+- **Liang, J., Jia, B., Liu, J., Li, X., Zhang, H (2023). Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers. The 15th Phonetic Conference of China (PCC2023), Shenzhen, Guangdong. (oral presentation)** 
+- **Liang, J., Jia, B., Liu, J., Li, X., Zhang, H (2023). Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers. The 14th Interational Conference inEvolutionary Linguistics (CIEL2023), Hong Kong. (poster)**
+- 
+## Research Experience
+
+
 
 ## Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
+- **[September. 2021]** The Third-Class Undergraduate Academic Scholarship
+- **[June. 2022]** College Students' Innovative and Entrepreneurial Training Program Funding
 
 
 <!-- {% include_relative _includes/publications.md %} -->
