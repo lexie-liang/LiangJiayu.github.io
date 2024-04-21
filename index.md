@@ -43,7 +43,7 @@ working under the mentorship of Prof.<a href="https://scholar.google.com/citatio
 **[2023-present]** Linking Production and Perception of English Vowels by Mandarin Speakers: Eye-tracking and Acoustic Evidence
 
 
-**[February, 2023]** Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers
+**[Feb. 2023]** Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers
 
 
 ## Skills
@@ -54,8 +54,8 @@ working under the mentorship of Prof.<a href="https://scholar.google.com/citatio
 
 
 ## Awards
-- **[September. 2021]** The Third-Class Undergraduate Academic Scholarship
-- **[June. 2022]** College Students' Innovative and Entrepreneurial Training Program Funding Supported by Shandong University
+- **[Sep. 2021]** The Third-Class Undergraduate Academic Scholarship
+- **[Jun. 2022]** College Students' Innovative and Entrepreneurial Training Program Funding Supported by Shandong University
 
 
 
