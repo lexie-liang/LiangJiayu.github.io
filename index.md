@@ -17,12 +17,10 @@ working under the mentorship of Prof.<a href="https://scholar.google.com/citatio
 - Cross-domain Transfer Effects between Music and Language Experience
 - Age-related Differences in Language Learning
 
-## Publications & Manuscripts
+## Publications & Presentations
 - Liang, J., Zhang, H. Music Experience Facilitates Lexical and Sub-lexical Processing of English Vowels: An Eye-tracking Study. (in preparation)
 - Liang, J., Zhang, H. Mandarin-speaking Musicians Show Enhanced Perception-Production Link of L2 English Vowels. (in preparation)
 - Zhang, H., Liang, J. (co-first author). Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults. (in preparation)
-
-## Conferences
 - Liang, J., Zhang, H. (2023). Perception-Production Links in Mandarin Speakers' English Vowels: A Behavioral and Eye-tracking Study. In <em>The 2nd National Symposium on Clinical Linguistics (NSCL2023)</em>, Jinan, Shandong. (oral presentation)
 - Liang, J., Jia, B., Liu, J., Li, X., Zhang, H. (2023). Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers. In <em>The 14th Interational Conference in Evolutionary Linguistics (CIEL2023)</em>, Hong Kong. (poster)
 - Liang, J., Jia, B., Liu, J., Li, X., Zhang, H. (2023). Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers. In <em>The 15th Phonetic Conference of China (PCC2023)</em>, Shenzhen, Guangdong. (oral presentation)
@@ -30,11 +28,12 @@ working under the mentorship of Prof.<a href="https://scholar.google.com/citatio
 
 
 ## Research Experience
-- <p>[2024-present] <strong>Efficacy of Melodic Training and Sleep-mediated Memory Consolidation in Learning Cantonese Level Tones by Native Speakers of Mandarin and English</strong><br>
-  This ongoing project plans to recruit 120 college students (60 Mandarin speakers and 60 English speakers) to participate in the <a href="#melodicTraining2023">music training program</a> I have designed for the previous study. I will be in charge of the Mandarin speakers' experiments.</p>
+<p>[2024-present] <strong>Efficacy of Melodic Training and Sleep-mediated Memory Consolidation in Learning Cantonese Level Tones by Native Speakers of Mandarin and English</strong><br>
+- This ongoing project plans to recruit 120 college students (60 Mandarin speakers and 60 English speakers) to participate in the <a href="#melodicTraining2023">music training program</a> I have designed for the previous study. 
+- I will do the Mandarin speakers' experiments and be responsible for the later analysis and paper writing. </p>
 
 - <p id="melodicTraining2023">[2023-2024] <strong>Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults</strong> <br>
-  In this project, ...</p>
+  In this project, I conducted literature review and designed a melodic height identification training program and assessments for the training effect, based on JavaScript. I recruited 30 older adults (15 Korean, 15 Chinese) to participte in this project. After data collection, I performed analysis for production and perception data</p>
 
 
 
