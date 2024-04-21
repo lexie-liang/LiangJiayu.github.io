@@ -36,8 +36,8 @@ working under the mentorship of Prof.<a href="https://scholar.google.com/citatio
 
 [2023-2024] <strong>Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults</strong> <br>
 <ul>
-    <li id="melodicTraining2023">Conducted literature review</li>
-    <li>Designed a Melodic Height Identification Training program and Training Assessments (identification and discrimination tests), based on JavaScript (<a href="https://www.jspsych.org/7.3/" target="_blank">jsPsych</a>).</li>
+    <li>Conducted literature review</li>
+    <li id="melodicTraining2023">Designed a Melodic Height Identification Training program and Training Assessments (identification and discrimination tests), based on JavaScript (<a href="https://www.jspsych.org/7.3/" target="_blank">jsPsych</a>).</li>
     <li>Recruited 30 older adults (15 Korean, 15 Chinese) to participate in this project.</li>
     <li>Conducted automatic annotation for production data using <a href="https://sppas.org/" target="_blank">SPPAS</a> and <a href="https://montreal-forced-aligner.readthedocs.io/en/latest/" target="_blank">Montreal Forced Aligner</a>.</li>
     <li>Performed automatic extraction of F0 values for production data in MATLAB (<a href="https://phonetics.ucla.edu/voicesauce/" target="_blank">VoiceSauce</a>).</li>
@@ -55,7 +55,7 @@ working under the mentorship of Prof.<a href="https://scholar.google.com/citatio
 
 [2023-2024] **Perception-Production Links in Mandarin Speakers' English Vowels: A Behavioral and Eye-tracking Study**<br>
 - Conducted literature review 
-- Synthesized and manipulated experimental stimuli in MATLAB (TANDEM-STRAIGHT) (<a href="https://ieeexplore.ieee.org/document/4518514" target="_blank">TANDEM-STRAIGHT</a>).
+- Synthesized and manipulated experimental stimuli in MATLAB (<a href="https://ieeexplore.ieee.org/document/4518514" target="_blank">TANDEM-STRAIGHT</a>).
 - Designed eye-tracking experimenst using <a href="https://www.sr-research.com/experiment-builder/" target="_blank">Experiment Builder</a>. 
 - Recruited 50 collage students to participte in this project.
 - Conducted automatic anotation for production data using <a href="https://sppas.org/" target="_blank">SPPAS</a> and <a href="http://darla.dartmouth.edu/index" target="_blank">DARLA</a>.
@@ -72,8 +72,16 @@ working under the mentorship of Prof.<a href="https://scholar.google.com/citatio
 
 
 
-[2023] **Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers**<br>
-<br>
+[2023] **Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers**
+- Conducted literature review, synthesized and manipulated experimental stimuli in MATLAB (<a href="https://ieeexplore.ieee.org/document/4518514" target="_blank">TANDEM-STRAIGHT</a>).
+- Recruited 20 collage students to participate in this project.
+- Designed and conducted experiments in <a href="https://www.psychopy.org/" target="_blank">Psychopy</a>.
+- Performed ANOVA and Pearson correlation analysis in Python (<a href="https://pypi.org/project/pandas/" target="_blank">Pandas</a>).
+- Wrote the manuscript.
+
+
+
+
 
 ## Skills
 - Programming: Python, R, JavaScript, MATLAB
