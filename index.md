@@ -3,12 +3,8 @@ layout: homepage
 ---
 
 ## About Me
-
-<!-- I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Statistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>, -->
-I'm a fourth-year undergraduate in English Language and Literature at Shandong University,
-<!-- 's <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a> -->
-<!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
-working under the mentorship of Prof.<a href="https://scholar.google.com/citations?hl=zh-TW&user=oQzY0ZwAAAAJ" target="_blank"> Hao Zhang</a>. My research areas include experimental phonetics, second/foreign language acquisition, and psycholinguistics. My undergraduate thesis used behavioral and eye-tracking methods to test how music experience influences the production and perception of English vowels by Mandarin-speaking L2 learners. Recently, I started studying the efficacy of musical training and sleep-mediated memory consolidation in learning Cantonese level tones by tonal (e.g. Mandarin) and non-tonal language (e.g. English and Korean) speakers. 
+I'm a fourth-year undergraduate majoring in English Language and Literature at Shandong University, working under the mentorship of Prof.<a href="https://scholar.google.com/citations?hl=zh-TW&user=oQzY0ZwAAAAJ" target="_blank"> Hao Zhang</a>. My research areas include experimental phonetics, second/foreign language acquisition, and psycholinguistics.
+For my undergraduate thesis, I employed behavioral and eye-tracking methodologies to investigate the impact of musical experience on the production and perception of English vowels among Mandarin-speaking second language learners. Recently, I started studying the efficacy of musical training and sleep-mediated memory consolidation in facilitating the acquisition of Cantonese level tones, particularly examining their influence on speakers of tonal languages like Mandarin as well as non-tonal languages such as English and Korean.
 
 
 
@@ -29,8 +25,16 @@ working under the mentorship of Prof.<a href="https://scholar.google.com/citatio
 
 ## Research Experience
 [2024-present] <strong>Efficacy of Melodic Training and Sleep-mediated Memory Consolidation in Learning Cantonese Level Tones by Native Speakers of Mandarin and English</strong><br>
-- Conducted literature review.
-- Aims to recruit 120 college students (60 Mandarin speakers and 60 English speakers) to participate in the <a href="#melodicTraining2023">music training program</a> I have designed for the previous study. <br>
+- Conducted extensive literature review to inform research direction.
+- Aims to recruit 120 college students (60 Mandarin speakers and 60 English speakers) to participate in the music training program I have designed for the previous study. <br>
+
+Conducted extensive literature review to inform research direction.
+
+Currently leading efforts to recruit 120 college students, comprising 60 Mandarin speakers and 60 English speakers, to engage in the <a href="#melodicTraining2023">music training program and associated assessments,</a> developed as part of my previous study.
+
+
+
+
 
 
 
