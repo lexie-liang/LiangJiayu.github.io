@@ -40,11 +40,10 @@ In this project, ...</p>
 
 
 
-- **[2023-2024]** Perception-Production Links in Mandarin Speakers' English Vowels: A Behavioral and Eye-tracking Study
+- **Perception-Production Links in Mandarin Speakers' English Vowels: A Behavioral and Eye-tracking Study** [2023-2024]
 
 
-- **[Feb. 2023]** Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers
-
+- **Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers** [Feb. 2023]
 
 ## Skills
 - **Programming: Python, R, JavaScript, MATLAB**
