@@ -8,14 +8,12 @@ layout: homepage
 I'm a fourth-year undergraduate in English Language and Literature at Shandong University,
 <!-- 's <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a> -->
 <!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
-working under the mentorship of Prof.<a href="https://scholar.google.com/citations?hl=zh-TW&user=oQzY0ZwAAAAJ" target="_blank"> Hao Zhang</a>. My research areas include experimental phonetics, second/foreign language acquisition, and psycholinguistics. My undergraduate thesis used behavioral and eye-tracking methods to test how musical experience influences the production and perception of English vowels by Mandarin-speaking L2 learners. Recently, I started studying the efficacy of musical training and sleep-mediated memory consolidation in learning Cantonese level tones by tonal (e.g. Mandarin) and non-tonal language (e.g. English and Korean) speakers. 
-<br>My path to ....blablabla
+working under the mentorship of Prof.<a href="https://scholar.google.com/citations?hl=zh-TW&user=oQzY0ZwAAAAJ" target="_blank"> Hao Zhang</a>. My research areas include experimental phonetics, second/foreign language acquisition, and psycholinguistics. My undergraduate thesis used behavioral and eye-tracking methods to test how music experience influences the production and perception of English vowels by Mandarin-speaking L2 learners. Recently, I started studying the efficacy of musical training and sleep-mediated memory consolidation in learning Cantonese level tones by tonal (e.g. Mandarin) and non-tonal language (e.g. English and Korean) speakers. 
 
-<br>Outside of academia, ....
 
 
 ## Research Interests
-- **Production and Perception of Foreign/Second Language** 
+- **Production and Perception of Non-native Language** 
 - **Cross-domain Transfer Effects between Music and Language Experience**
 - **Age-related Differences in Language Learning**
 
