@@ -30,17 +30,18 @@ working under the mentorship of Prof.<a href="https://scholar.google.com/citatio
 
 
 ## Research Experience
-<p><strong>[2024-present]</strong> Efficacy of Melodic Training and Sleep-mediated Memory Consolidation in Learning Cantonese Level Tones by Native Speakers of Mandarin and English <br>
+<p><strong>[2024-present]</strong> Efficacy of Melodic Training and Sleep-mediated Memory Consolidation in Learning Cantonese Level Tones by Native Speakers of Mandarin and English: <br>
 This ongoing project plans to recruit 120 college students (60 Mandarin speakers and 60 English speakers) to participate in the <a href="#melodicTraining2023">music training program</a> I have designed for the previous study. I will be in charge of the Mandarin speakers' experiments.</p>
 
-<p id="melodicTraining2023"><strong>[2023-2024]</strong> Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults <br>
+<p id="melodicTraining2023"><strong>[2023-2024]</strong> Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults: <br>
 In this project, ...</p>
 
 
 
 
 
-- **Perception-Production Links in Mandarin Speakers' English Vowels: A Behavioral and Eye-tracking Study** [2023-2024]
+- **Perception-Production Links in Mandarin Speakers' English Vowels: A Behavioral and Eye-tracking Study** [2023-2024]<br>
+This ongoing project plans to recruit 120 college students (60 Mandarin speakers and 60 English speakers) to participate in the <a href="#melodicTraining2023">music training program</a> I have designed for the previous study. I will be in charge of the Mandarin speakers' experiments.</p>
 
 
 - **Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers** [Feb. 2023]
