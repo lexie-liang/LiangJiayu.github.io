@@ -28,9 +28,9 @@ working under the mentorship of Prof.<a href="https://scholar.google.com/citatio
 
 
 ## Research Experience
-<p>[2024-present] <strong>Efficacy of Melodic Training and Sleep-mediated Memory Consolidation in Learning Cantonese Level Tones by Native Speakers of Mandarin and English</strong><br>
-- This ongoing project plans to recruit 120 college students (60 Mandarin speakers and 60 English speakers) to participate in the <a href="#melodicTraining2023">music training program</a> I have designed for the previous study. 
-- I will do the Mandarin speakers' experiments and be responsible for the later analysis and paper writing. </p>
+<p>[2024-present] <strong>Efficacy of Melodic Training and Sleep-mediated Memory Consolidation in Learning Cantonese Level Tones by Native Speakers of Mandarin and English</strong><br></p>
+- This ongoing project plans to recruit 120 college students (60 Mandarin speakers and 60 English speakers) to participate in the <a href="#melodicTraining2023">music training program</a> I have designed for the previous study. <br>
+- I will do the Mandarin speakers' experiments and be responsible for the later analysis and paper writing.
 
 - <p id="melodicTraining2023">[2023-2024] <strong>Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults</strong> <br>
   In this project, I conducted literature review and designed a melodic height identification training program and assessments for the training effect, based on JavaScript. I recruited 30 older adults (15 Korean, 15 Chinese) to participte in this project. After data collection, I performed analysis for production and perception data</p>
