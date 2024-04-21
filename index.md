@@ -40,7 +40,8 @@ In this project, ...</p>
 
 
 
-- **Perception-Production Links in Mandarin Speakers' English Vowels: A Behavioral and Eye-tracking Study** [2023-2024]<br>
+- **Perception-Production Links in Mandarin Speakers' English Vowels: A Behavioral and Eye-tracking Study** <br>
+[2023-2024]<br>
 This ongoing project plans to recruit 120 college students (60 Mandarin speakers and 60 English speakers) to participate in the <a href="#melodicTraining2023">music training program</a> I have designed for the previous study. I will be in charge of the Mandarin speakers' experiments.</p>
 
 
