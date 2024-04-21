@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 I'm a fourth-year undergraduate majoring in English Language and Literature at Shandong University, working under the mentorship of Prof.<a href="https://www.researchgate.net/profile/Hao-Zhang-39" target="_blank"> Hao Zhang</a>. My research areas include experimental phonetics, second/foreign language acquisition, and psycholinguistics.
-For my undergraduate thesis, I employed behavioral and eye-tracking methodologies to investigate the impact of musical experience on the production and perception of English vowels among Mandarin-speaking second language learners. Recently, I started studying the efficacy of musical training and sleep-mediated memory consolidation in facilitating the acquisition of Cantonese level tones, particularly examining their influence on speakers of tonal languages like Mandarin as well as non-tonal languages such as English and Korean.
+For my undergraduate thesis, I employed behavioral and eye-tracking methodologies to investigate the impact of musical experience on the production and perception of English vowels among Mandarin-speaking second language learners. Recently, I started studying the efficacy of musical training and sleep-mediated memory consolidation in the acquisition of Cantonese level tones, particularly examining their influence on speakers of tonal languages like Mandarin as well as non-tonal languages such as English and Korean.
 
 
 
@@ -37,7 +37,7 @@ For my undergraduate thesis, I employed behavioral and eye-tracking methodologie
 [2023-2024] <strong>Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults</strong> <br>
 <ul>
     <li>Conducted comprehensive literature review.</li>
-    <li id="melodicTraining2023">Developed and implemented a Melodic Height Identification Training program and associated assessments, utilizing JavaScript (<a href="https://www.jspsych.org/7.3/" target="_blank">jsPsych</a>).</li>
+    <li id="melodicTraining2023">Developed and implemented a Melodic Height Identification Training program and associated assessments (identification and discrimination tests), utilizing JavaScript (<a href="https://www.jspsych.org/7.3/" target="_blank">jsPsych</a>).</li>
     <li>Recruited 30 participants, including 15 Korean and 15 Chinese older adults.</li>
     <li>Employed <a href="https://sppas.org/" target="_blank">SPPAS</a> and <a href="https://montreal-forced-aligner.readthedocs.io/en/latest/" target="_blank">Montreal Forced Aligner</a> for automatic annotation of production data, and MATLAB (<a href="https://phonetics.ucla.edu/voicesauce/" target="_blank">VoiceSauce</a>) for automatic extraction of F0 values.</li>
     <li>Analyzed participants' tone differentiability and hit rate to evaluate production performance and generated tone overlap plots.</li>
