@@ -9,7 +9,7 @@ I'm a fourth-year undergraduate in English Language and Literature at Shandong U
 <!-- 's <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a> -->
 <!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
 working under the mentorship of Prof.<a href="https://scholar.google.com/citations?hl=zh-TW&user=oQzY0ZwAAAAJ" target="_blank"> Hao Zhang</a>. My research areas include experimental phonetics, second/foreign language acquisition, and psycholinguistics. My undergraduate thesis used behavioral and eye-tracking methods to test how musical aptitude influences the production and perception of English vowels by Mandarin-speaking L2 learners. Recently, I started studying the efficacy of musical training and sleep-mediated memory consolidation in learning Cantonese level tones by tonal (e.g. Mandarin) and non-tonal language (e.g. English and Korean) speakers. 
-
+<br> My path to...
 
 
 ## Research Interests
@@ -30,8 +30,9 @@ working under the mentorship of Prof.<a href="https://scholar.google.com/citatio
 
 
 ## Research Experience
-- **[2024-present]** Efficacy of Melodic Training and Sleep-mediated Memory Consolidation in Learning Cantonese Level Tones by Native Speakers of Mandarin and English 
-i uses
+- **[2024-present]** Efficacy of Melodic Training and Sleep-mediated Memory Consolidation in Learning Cantonese Level Tones by Native Speakers of Mandarin and English
+
+<br>i uses
 
 
 
