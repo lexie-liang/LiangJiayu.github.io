@@ -23,7 +23,7 @@ working under the mentorship of Prof.<a href="https://scholar.google.com/citatio
 - **Zhang, H., Liang, J. (co-first author). Benefits of Melodic Training on the Overnight Consolidation of Cantonese Level Tones by Korean and Chinese Older Adults. (in preparation)**
 
 ## Conferences
-- **Liang, J., Zhang, H. (2023). Perception-Production Links in Mandarin Speakers' English Vowels: A Behavioral and Eye-tracking Study. In <em>The 2nd National Symposium on Clinical Linguistics</em>, Jinan, Shandong. (oral presentation)** 
+- **Liang, J., Zhang, H. (2023). Perception-Production Links in Mandarin Speakers' English Vowels: A Behavioral and Eye-tracking Study. In <em>The 2nd National Symposium on Clinical Linguistics (NSCL2023)</em>, Jinan, Shandong. (oral presentation)** 
 - **Liang, J., Jia, B., Liu, J., Li, X., Zhang, H. (2023). Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers. In <em>The 14th Interational Conference in Evolutionary Linguistics (CIEL2023)</em>, Hong Kong. (poster)**
 - **Liang, J., Jia, B., Liu, J., Li, X., Zhang, H. (2023). Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers. In <em>The 15th Phonetic Conference of China (PCC2023)</em>, Shenzhen, Guangdong. (oral presentation)** 
 
