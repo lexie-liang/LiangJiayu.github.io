@@ -36,10 +36,10 @@ working under the mentorship of Prof.<a href="https://scholar.google.com/citatio
 <br>This ongoing project plans to recruit 120 college students (60 Mandarin speakrs and 60 English speakers) to participant in the<a href="https://lexie-liang.github.io/LiangJiayu.github.io/#:~:text=%5B2023%2Dpresent%5D%20Benefits%20of%20Melodic%20Training%20on%20the%20Production%20and%20Perception%20of%20Cantonese%20Level%20Tones%20by%20Korean%20and%20Chinese%20Older%20Adults" target="_blank"> music traiing program</a> I have designed for the previous study. I will be in charge of the Mandarin speakers' experiments.
 
 
-<p><strong>[2024-present]</strong> Efficacy of Melodic Training and Sleep-mediated Memory Consolidation in Learning Cantonese Level Tones by Native Speakers of Mandarin and English<br>
+- <p><strong>[2024-present]</strong> Efficacy of Melodic Training and Sleep-mediated Memory Consolidation in Learning Cantonese Level Tones by Native Speakers of Mandarin and English<br>
 This ongoing project plans to recruit 120 college students (60 Mandarin speakers and 60 English speakers) to participate in the <a href="#melodicTraining2023">music training program</a> I have designed for the previous study. I will be in charge of the Mandarin speakers' experiments.</p>
 
-<p id="melodicTraining2023"><strong>[2023-2024]</strong> Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults</p>
+- <p id="melodicTraining2023"><strong>[2023-2024]</strong> Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults</p>
 
 - **[2023-2024]** Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults
 
