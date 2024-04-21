@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I'm a fourth-year undergraduate majoring in English Language and Literature at Shandong University, working under the mentorship of Prof.<a href="https://scholar.google.com/citations?hl=zh-TW&user=oQzY0ZwAAAAJ" target="_blank"> Hao Zhang</a>. My research areas include experimental phonetics, second/foreign language acquisition, and psycholinguistics.
+I'm a fourth-year undergraduate majoring in English Language and Literature at Shandong University, working under the mentorship of Prof.<a href="https://www.researchgate.net/profile/Hao-Zhang-39" target="_blank"> Hao Zhang</a>. My research areas include experimental phonetics, second/foreign language acquisition, and psycholinguistics.
 For my undergraduate thesis, I employed behavioral and eye-tracking methodologies to investigate the impact of musical experience on the production and perception of English vowels among Mandarin-speaking second language learners. Recently, I started studying the efficacy of musical training and sleep-mediated memory consolidation in facilitating the acquisition of Cantonese level tones, particularly examining their influence on speakers of tonal languages like Mandarin as well as non-tonal languages such as English and Korean.
 
 
