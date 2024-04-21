@@ -41,7 +41,7 @@ working under the mentorship of Prof.<a href="https://scholar.google.com/citatio
     <li>Recruited 30 older adults (15 Korean, 15 Chinese) to participate in this project.</li>
     <li>Conducted automatic annotation for production data using <a href="https://sppas.org/" target="_blank">SPPAS</a> and <a href="https://montreal-forced-aligner.readthedocs.io/en/latest/" target="_blank">Montreal Forced Aligner</a>.</li>
     <li>Performed automatic extraction of F0 values for production data in MATLAB (<a href="https://phonetics.ucla.edu/voicesauce/" target="_blank">VoiceSauce</a>).</li>
-    <li>Calculated participants' <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2020.592954/full" target="_blank">tone differentiability</a> and <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2020.592954/full" target="_blank">hit rate</a> for their production performance.</li>
+    <li>Calculated participants' tone differentiability and hit rate for their production performance.</li>
     <li>Used onset and offset F0 values to plot tone overlap on a per-group (Mandarin, Korean) and per-test (pretest, posttest1, posttest2) basis.</li>
     <li>Transformed perception data (accuracy percentages) into rationalized arcsine units (<a href="https://pubs.asha.org/doi/abs/10.1044/jshr.2803.455" target="_blank">RAUs</a>).</li>
     <li>Conducted LME analysis in R (<a href="https://cran.r-project.org/web/packages/lme4/index.html" target="_blank">lme4</a>).</li>
@@ -60,7 +60,7 @@ working under the mentorship of Prof.<a href="https://scholar.google.com/citatio
 - Recruited 50 collage students to participte in this project.
 - Conducted automatic anotation for production data using <a href="https://sppas.org/" target="_blank">SPPAS</a> and <a href="http://darla.dartmouth.edu/index" target="_blank">DARLA</a>.
 - Performed automatic extraction of F1 and F2 values for production data in MATLAB (<a href="https://phonetics.ucla.edu/voicesauce/" target="_blank">VoiceSauce</a>).
-- Calculated participants' <a href="https://www.sciencedirect.com/science/article/abs/pii/S0095447010000707" target="_blank">boundary width</a> in Python.
+- Calculated participants' boundary width in Python to evaluate their perception performance.
 - Processed eye-movement data in R (<a href="http://www.eyetracking-r.com/" target="_blank">eyetrackingR</a>).
 - Calculated the difference between the empirical logtransformed proportions of target and competitor fixations on a per-participant basis.
 - Calculated participants' Pillai score in R to measure vowel overlap.
