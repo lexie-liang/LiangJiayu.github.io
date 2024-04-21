@@ -26,11 +26,7 @@ For my undergraduate thesis, I employed behavioral and eye-tracking methodologie
 ## Research Experience
 [2024-present] <strong>Efficacy of Melodic Training and Sleep-mediated Memory Consolidation in Learning Cantonese Level Tones by Native Speakers of Mandarin and English</strong><br>
 - Conducted extensive literature review to inform research direction.
-- Aims to recruit 120 college students (60 Mandarin speakers and 60 English speakers) to participate in the music training program I have designed for the previous study. <br>
-
-Conducted extensive literature review to inform research direction.
-
-Currently leading efforts to recruit 120 college students, comprising 60 Mandarin speakers and 60 English speakers, to engage in the <a href="#melodicTraining2023">music training program and associated assessments,</a> developed as part of my previous study.
+- Currently leading efforts to recruit 120 college students, comprising 60 Mandarin speakers and 60 English speakers, to engage in the <a href="#melodicTraining2023">music training program and associated assessments,</a> developed as part of my previous study.
 
 
 
@@ -40,37 +36,28 @@ Currently leading efforts to recruit 120 college students, comprising 60 Mandari
 
 [2023-2024] <strong>Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults</strong> <br>
 <ul>
-    <li>Conducted literature review</li>
-    <li id="melodicTraining2023">Designed a Melodic Height Identification Training program and Training Assessments (identification and discrimination tests), based on JavaScript (<a href="https://www.jspsych.org/7.3/" target="_blank">jsPsych</a>).</li>
-    <li>Recruited 30 older adults (15 Korean, 15 Chinese) to participate in this project.</li>
-    <li>Conducted automatic annotation for production data using <a href="https://sppas.org/" target="_blank">SPPAS</a> and <a href="https://montreal-forced-aligner.readthedocs.io/en/latest/" target="_blank">Montreal Forced Aligner</a>.</li>
-    <li>Performed automatic extraction of F0 values for production data in MATLAB (<a href="https://phonetics.ucla.edu/voicesauce/" target="_blank">VoiceSauce</a>).</li>
-    <li>Calculated participants' tone differentiability and hit rate for their production performance.</li>
-    <li>Used onset and offset F0 values to plot tone overlap on a per-group (Mandarin, Korean) and per-test (pretest, posttest1, posttest2) basis.</li>
-    <li>Transformed perception data (accuracy percentages) into rationalized arcsine units (<a href="https://pubs.asha.org/doi/abs/10.1044/jshr.2803.455" target="_blank">RAUs</a>).</li>
-    <li>Conducted LME analysis in R (<a href="https://cran.r-project.org/web/packages/lme4/index.html" target="_blank">lme4</a>).</li>
+    <li>Conducted comprehensive literature review to inform research methodology.</li>
+    <li id="melodicTraining2023">Developed and implemented a Melodic Height Identification Training program and associated assessments, utilizing JavaScript (<a href="https://www.jspsych.org/7.3/" target="_blank">jsPsych</a>).</li>
+    <li>Successfully recruited and managed a cohort of 30 older adults, comprising 15 Korean and 15 Chinese participants, for the research project.</li>
+    <li>Utilized <a href="https://sppas.org/" target="_blank">SPPAS</a> and <a href="https://montreal-forced-aligner.readthedocs.io/en/latest/" target="_blank">Montreal Forced Aligner</a> for automatic annotation of production data, and automatically extracted F0 values in MATLAB (<a href="https://phonetics.ucla.edu/voicesauce/" target="_blank">VoiceSauce</a>).</li>
+    <li>Analyzed participants' tone differentiability and hit rate to assess production performance and Utilized onset and offset F0 values to generate tone overlap plots, organized by group (Mandarin, Korean) and test phase (pretest, posttest1, posttest2).</li>
+    <li>Transformed perception data (accuracy percentages) into rationalized arcsine units (RAUs) for statistical analysis.</li>
+    <li>Conducted Linear Mixed Effects analysis using R (<a href="https://cran.r-project.org/web/packages/lme4/index.html" target="_blank">lme4</a>) to examine the effects of melodic training on Cantonese level tones perception and production.</li>
 </ul>
 
 
 
 
 
-
-
 [2023-2024] **Perception-Production Links in Mandarin Speakers' English Vowels: A Behavioral and Eye-tracking Study**<br>
-- Conducted literature review 
+- Conducted literature review.
 - Synthesized and manipulated experimental stimuli in MATLAB (<a href="https://ieeexplore.ieee.org/document/4518514" target="_blank">TANDEM-STRAIGHT</a>).
 - Designed eye-tracking experimenst using <a href="https://www.sr-research.com/experiment-builder/" target="_blank">Experiment Builder</a>. 
 - Recruited 50 collage students to participte in this project.
-- Conducted automatic anotation for production data using <a href="https://sppas.org/" target="_blank">SPPAS</a> and <a href="http://darla.dartmouth.edu/index" target="_blank">DARLA</a>.
-- Performed automatic extraction of F1 and F2 values for production data in MATLAB (<a href="https://phonetics.ucla.edu/voicesauce/" target="_blank">VoiceSauce</a>).
+- Conducted automatic anotation for production data using <a href="https://sppas.org/" target="_blank">SPPAS</a> and <a href="http://darla.dartmouth.edu/index" target="_blank">DARLA</a>, and automaticly extract F1 and F2 values for production data in MATLAB (<a href="https://phonetics.ucla.edu/voicesauce/" target="_blank">VoiceSauce</a>).
 - Calculated participants' boundary width in Python to evaluate their perception performance.
-- Processed eye-movement data in R (<a href="http://www.eyetracking-r.com/" target="_blank">eyetrackingR</a>).
-- Calculated the difference between the empirical logtransformed proportions of target and competitor fixations on a per-participant basis.
-- Calculated participants' Pillai score in R to measure vowel overlap.
-- Used F1 and F2 values to plot vowel overlap on a per-group (music, non-group) basis.
-- Plotted vowel overlap in R (<a href="https://ggplot2.tidyverse.org/" target="_blank">ggplot2</a>)
-- Transformed perception data (accuracy percentages) into rationalized arcsine units (<a href="https://pubs.asha.org/doi/abs/10.1044/jshr.2803.455" target="_blank">RAUs</a>)
+- Processed eye-movement data in R (<a href="http://www.eyetracking-r.com/" target="_blank">eyetrackingR</a>) and calculated the difference between the empirical logtransformed proportions of target and competitor fixations on a per-participant basis.
+- Calculated participants' Pillai score in R to measure vowel overlap and used F1 and F2 values to plot vowel overlap in R (<a href="https://ggplot2.tidyverse.org/" target="_blank">ggplot2</a>)
 - Conducted LME and GCA analysis analysis in R (<a href="https://cran.r-project.org/web/packages/lme4/index.html" target="_blank">lme4</a>)
 
 
