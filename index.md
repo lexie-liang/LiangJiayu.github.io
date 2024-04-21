@@ -33,16 +33,16 @@ working under the mentorship of Prof.<a href="https://scholar.google.com/citatio
 - <p>[2024-present] <strong>Efficacy of Melodic Training and Sleep-mediated Memory Consolidation in Learning Cantonese Level Tones by Native Speakers of Mandarin and English</strong><br>
   This ongoing project plans to recruit 120 college students (60 Mandarin speakers and 60 English speakers) to participate in the <a href="#melodicTraining2023">music training program</a> I have designed for the previous study. I will be in charge of the Mandarin speakers' experiments.</p>
 
-- <p id="melodicTraining2023"><strong>[2023-2024] Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults</strong> <br>
+- <p id="melodicTraining2023">[2023-2024] <strong>Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults</strong> <br>
   In this project, ...</p>
 
 
 
-- **[2023-2024] Perception-Production Links in Mandarin Speakers' English Vowels: A Behavioral and Eye-tracking Study**<br>
+- [2023-2024] **Perception-Production Links in Mandarin Speakers' English Vowels: A Behavioral and Eye-tracking Study**<br>
 <br>
 
 
-- **[Feb. 2023] Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers**<br>
+- [Feb. 2023] **Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers**<br>
 <br>
 
 ## Skills
@@ -54,7 +54,7 @@ working under the mentorship of Prof.<a href="https://scholar.google.com/citatio
 
 ## Awards
 - [Sep. 2021] **The Third-Class Undergraduate Academic Scholarship**
-- **[Jun. 2022]** College Students' Innovative and Entrepreneurial Training Program Funding Supported by Shandong University
+- [Jun. 2022] **College Students' Innovative and Entrepreneurial Training Program Funding Supported by Shandong University**
 
 
 
@@ -66,7 +66,7 @@ working under the mentorship of Prof.<a href="https://scholar.google.com/citatio
 
 
 ## Service
-- **[2023-present]** Research assistant at Shandong University
+- [2023-present] **Research assistant at Shandong University**
 
 
 
