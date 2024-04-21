@@ -58,11 +58,6 @@ working under the mentorship of Prof.<a href="https://scholar.google.com/citatio
 - **[June. 2022]** College Students' Innovative and Entrepreneurial Training Program Funding Supported by Shandong University
 
 
-<!-- {% include_relative _includes/publications.md %} -->
-
-<!-- {% include_relative _includes/projects.md %}-->
-
-<!--{% include_relative _includes/talks.md %}-->
 
 
 
@@ -73,19 +68,7 @@ working under the mentorship of Prof.<a href="https://scholar.google.com/citatio
 
 ## Service
 - **[2023-present]** Research assistant at Shandong University
-<!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019. -->
 
-
-<!--{% include_relative _includes/services.md %}
-
-
-## Resources
-- <a href="https://github.com/Hanchao-Zhang/LeetCode-Prep/blob/main/main.pdf" target="_blank">*A Coding Question Prep*</a> by Hanchao Zhang
-- <a href="https://github.com/Hanchao-Zhang/LeetQuant-Note/blob/main/Prep/Quant%20Research.pdf" target="_blank">*A Quantatitive Research Interview Prep*</a> by Hanchao Zhang
-<!-- https://yuhangzhou88.github.io/ESL_Solution/  -->
-<!--- <a href="https://yuhangzhou88.github.io/ESL_Solution/" target="_blank">*A Solution Manual of The Elements of Statistical Learning*</a> by Yuhang Zhou
 
 
 
