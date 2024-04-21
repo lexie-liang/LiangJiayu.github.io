@@ -41,6 +41,7 @@ working under the mentorship of Prof.<a href="https://scholar.google.com/citatio
 - Conducted automatic anotation for production data using <a href="https://sppas.org/" target="_blank">SPPAS</a> and <a href="https://montreal-forced-aligner.readthedocs.io/en/latest/" target="_blank">Montreal Forced Aligner</a>.
 - Performed automatic extraction of F0 values for production data in MATLAB (<a href="https://phonetics.ucla.edu/voicesauce/" target="_blank">VoiceSauce</a>).
 - Calculated participants' (<a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2020.592954/full" target="_blank">tone differentiability</a>) and (<a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2020.592954/full" target="_blank">hit rate</a>) for their production performance
+- Used onset and offset F0 values to plot tone overlap on a per-group (Mandarin, Korean) and per-test (pretest, posttest1, posttest2) basis.
 - Transformed perception data (accuracy percentages) into rationalized arcsine units (<a href="https://pubs.asha.org/doi/abs/10.1044/jshr.2803.455" target="_blank">RAUs</a>)
 - Conducted LME analysis in R (<a href="https://cran.r-project.org/web/packages/lme4/index.html" target="_blank">lme4</a>)
 
