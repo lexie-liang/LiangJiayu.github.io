@@ -36,7 +36,7 @@ working under the mentorship of Prof.<a href="https://scholar.google.com/citatio
 
 [2023-2024] <strong>Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults</strong> <br>
 - Conducted literature review
-- <li id="melodicTraining2023">Designed a Melodic Height Identification Training program and Training Assessments (identification and discrimination tests), based on JavaScript (<a href="https://www.jspsych.org/7.3/" target="_blank">jsPsych</a>).
+- <li id="melodicTraining2023">Designed a Melodic Height Identification Training program and Training Assessments (identification and discrimination tests), based on JavaScript (<a href="https://www.jspsych.org/7.3/" target="_blank">jsPsych</a>).</li>
 - Recruited 30 older adults (15 Korean, 15 Chinese) to participte in this project.
 - Conducted automatic anotation for production data using <a href="https://sppas.org/" target="_blank">SPPAS</a> and <a href="https://montreal-forced-aligner.readthedocs.io/en/latest/" target="_blank">Montreal Forced Aligner</a>.
 - Performed automatic extraction of F0 values for production data in MATLAB (<a href="https://phonetics.ucla.edu/voicesauce/" target="_blank">VoiceSauce</a>).
