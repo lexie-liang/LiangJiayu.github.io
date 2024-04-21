@@ -53,7 +53,7 @@ working under the mentorship of Prof.<a href="https://scholar.google.com/citatio
 
 
 ## Awards
-- **[Sep. 2021]** The Third-Class Undergraduate Academic Scholarship
+- [Sep. 2021] **The Third-Class Undergraduate Academic Scholarship**
 - **[Jun. 2022]** College Students' Innovative and Entrepreneurial Training Program Funding Supported by Shandong University
 
 
