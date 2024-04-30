@@ -57,8 +57,8 @@ For my undergraduate thesis, I employed behavioral and eye-tracking methodologie
 - Employed automatic annotation for production data using <a href="https://sppas.org/" target="_blank">SPPAS</a> and <a href="http://darla.dartmouth.edu/index" target="_blank">DARLA</a>, and automatic extraction of F1 and F2 values in MATLAB (<a href="https://phonetics.ucla.edu/voicesauce/" target="_blank">VoiceSauce</a>).
 - Calculated participants' boundary width in Python to assess perception performance.
 - Processed eye-movement data in R (<a href="http://www.eyetracking-r.com/" target="_blank">eyetrackingR</a>) and calculated the difference between the empirical logtransformed proportions of target and competitor fixations.
-- Calculated participants' Pillai score in R to measure vowel overlap and plotted vowel overlap using F1 and F2 values in R (<a href="https://ggplot2.tidyverse.org/" target="_blank">ggplot2</a>)
-- Conducted LME and Growth Curve Analysis (GCA) in R (<a href="https://cran.r-project.org/web/packages/lme4/index.html" target="_blank">lme4</a>)
+- Calculated participants' Pillai score in R to measure vowel overlap and plotted vowel overlap using F1 and F2 values in R (<a href="https://ggplot2.tidyverse.org/" target="_blank">ggplot2</a>).
+- Conducted LME and Growth Curve Analysis (GCA) in R (<a href="https://cran.r-project.org/web/packages/lme4/index.html" target="_blank">lme4</a>).
 
 
 
