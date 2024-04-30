@@ -73,9 +73,6 @@ For my undergraduate thesis, I employed behavioral and eye-tracking methodologie
 
 
 
-## Skills
-- Programming: Python, R, JavaScript, MATLAB
-- Language proficency: Mandarin (native), Cantonese (native) and English (IETLS score: 8.0)
 
 
 
@@ -97,6 +94,9 @@ For my undergraduate thesis, I employed behavioral and eye-tracking methodologie
 - [2023-present] Research assistant at Shandong University
 
 
+## Skills
+- Programming: Python, R, JavaScript, MATLAB
+- Language proficency: Mandarin (native), Cantonese (native) and English (IETLS score: 8.0)
 
 
 
