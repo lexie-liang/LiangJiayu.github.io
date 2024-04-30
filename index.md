@@ -95,7 +95,7 @@ For my undergraduate thesis, I employed behavioral and eye-tracking methodologie
 
 
 ## Skills
-- Programming: Python, R, JavaScript, MATLAB
+- Programming: Python, R, JavaScript and MATLAB
 - Language proficiency: Mandarin (native), Cantonese (native) and English (IELTS score: 8.0)
 
 
