@@ -6,24 +6,12 @@ title: Jiayu Liang
 position: Research Assistant
 # subposition: Chair of the Chinese Student and Scholar Association (CSSA)
 #subposition_link: https://nyu-medicine-cssa.github.io
-#affiliation: Hong Kong University of Science and Technology
-#subaffiliation: Division of Humanities
-#subsubaffiliation: Speech, Learning, and the Brain (SLaB) Lab
-#affiliation_link: https://hkust.edu.hk/
-#subaffiliation_link: https://huma.hkust.edu.hk/
-#subsubaffiliation_link: https://slablab.weebly.com/
-  <h3>Affiliation</h3>
-  <p>
-    <a href="https://hkust.edu.hk/">Hong Kong University of Science and Technology</a>
-  </p>
-  <h3>Subaffiliation</h3>
-  <p>
-    <a href="https://huma.hkust.edu.hk/">Division of Humanities</a>
-  </p>
-  <h3>Subsubaffiliation</h3>
-  <p>
-    <a href="https://slablab.weebly.com/">Speech, Learning, and the Brain (SLaB) Lab</a>
-  </p>
+affiliation: Hong Kong University of Science and Technology
+subaffiliation: Division of Humanities
+subsubaffiliation: Speech, Learning, and the Brain (SLaB) Lab
+affiliation_link: https://hkust.edu.hk/
+subaffiliation_link: https://huma.hkust.edu.hk/
+subsubaffiliation_link: https://slablab.weebly.com/
 email: hmjyliang@ust.hk
 address: Clear Water Bay, Kowloon, Hong Kong
 #address_link: https://goo.gl/maps/aQZfmiKjQmqbDsVY9
