@@ -6,12 +6,12 @@ title: Jiayu Liang
 #position: Ph.D. Candidate
 # subposition: Chair of the Chinese Student and Scholar Association (CSSA)
 #subposition_link: https://nyu-medicine-cssa.github.io
-affiliation: Shandong University
-subaffiliation: School of Foreign Language and Literature
-affiliation_link: https://www.sdu.edu.cn/
-subaffiliation_link: https://www.flc.sdu.edu.cn/
-email: 202000072210@mail.sdu.edu.cn
-address: Hongjialou Campus, Shandong University, Jinan, 250000
+affiliation: Hong Kong University of Science and Technology
+subaffiliation: Division of Humanities
+affiliation_link: https://hkust.edu.hk/
+subaffiliation_link: https://huma.hkust.edu.hk/
+email: hmjyliang@ust.hk
+address: Clear Water Bay, Kowloon, Hong Kong
 #address_link: https://goo.gl/maps/aQZfmiKjQmqbDsVY9
 
 # Search Engine Optimization (SEO)
@@ -33,7 +33,7 @@ cv_link: assets/files/Jiayu_Liang.pdf
 avatar: ./assets/img/ljy.jpg
 # logo: ./assets/img/logo.png
 favicon: ./assets/img/sdu.png
-favicon_dark: ./assets/img/sdu.png
+favicon_dark: ./assets/img/LOGO_UST_blue_gold.svg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
