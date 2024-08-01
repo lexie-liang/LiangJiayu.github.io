@@ -14,10 +14,12 @@ I'm a research assistant of the <a href="https://slablab.weebly.com/" target="_b
 - Age-related Differences in Language Learning
 
 ## Publications & Presentations
+- Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults. (in preparation)
+- **Liang, J.**, Zhang, H. Mandarin-speaking Musicians Show Enhanced Perception-Production Link of L2 English Vowels. (in preparation)
 - **Liang, J.**, Zhang, H. Effects of Mandarin Speakers’ Musical Aptitude on the Perception of English Vowels: An
  Eye-tracking Study. (in preparation)
-- **Liang, J.**, Zhang, H. Mandarin-speaking Musicians Show Enhanced Perception-Production Link of L2 English Vowels. (in preparation)
-- Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults. (in preparation)
+- **Liang, J.**, Zhang, H. (2024). Effects of Mandarin Speakers’ Musical Aptitude on the Perception of English Vowels: An
+ Eye-tracking Study. In <em>The 15th International Conference in Evolutionary Linguistics (CIEL2024)</em>, Changsha, Hunan. (poster)
 - **Liang, J.**, Zhang, H. (2023). Perception-Production Links in Mandarin Speakers' English Vowels: A Behavioral and Eye-tracking Study. In <em>The 2nd National Symposium on Clinical Linguistics (NSCL2023)</em>, Jinan, Shandong. (oral presentation)
 - **Liang, J.**, Jia, B., Liu, J., Li, X., Zhang, H. (2023). Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers. In <em>The 14th International Conference in Evolutionary Linguistics (CIEL2023)</em>, Hong Kong. (poster)
 - **Liang, J.**, Jia, B., Liu, J., Li, X., Zhang, H. (2023). Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers. In <em>The 15th Phonetic Conference of China (PCC2023)</em>, Shenzhen, Guangdong. (oral presentation)
@@ -25,7 +27,7 @@ I'm a research assistant of the <a href="https://slablab.weebly.com/" target="_b
 
 
 ## Research Experience
-[2024-present] <strong>Efficacy of Melodic Training and Sleep-mediated Memory Consolidation in Learning Cantonese Level Tones by Native Speakers of Mandarin and Korean</strong><br>
+[2024-present] <strong>Efficacy of Melodic Training and Sleep-mediated Memory Consolidation in Learning Cantonese Level Tones by Mandarin-speaking Younger Adults</strong><br>
 - Conducted extensive literature review.
 - Recruited 80 Mandarin-speaking college students to engage in the <a href="#melodicTraining2023">music training program and associated assessments,</a> developed in the previous study.
 
@@ -79,8 +81,9 @@ I'm a research assistant of the <a href="https://slablab.weebly.com/" target="_b
 
 
 ## Awards
-- [Sep. 2021] The Third-Class Undergraduate Academic Scholarship
 - [Jun. 2022] College Students' Innovative and Entrepreneurial Training Program Funding Supported by Shandong University
+- [Sep. 2021] The Third-Class Undergraduate Academic Scholarship
+
 
 
 
@@ -92,8 +95,9 @@ I'm a research assistant of the <a href="https://slablab.weebly.com/" target="_b
 
 
 ## Service
-- [2023-2024] Research assistant at Shandong University
 - [2024-2025] Research assistant at Hong Kong University of Science and Technology
+- [2023-2024] Research assistant at Shandong University
+
 
 ## Skills
 - Programming: Python, R, JavaScript and MATLAB
