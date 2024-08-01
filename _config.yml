@@ -33,7 +33,7 @@ cv_link: assets/files/Jiayu_Liang.pdf
 avatar: ./assets/img/ljy.jpg
 # logo: ./assets/img/logo.png
 favicon: ./assets/img/sdu.png
-favicon_dark: ./assets/img/LOGO_UST_blue_gold.svg
+favicon_dark: ./assets/img/LOGO_UST_blue_gold.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
