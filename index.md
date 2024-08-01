@@ -12,7 +12,8 @@ I'm a research assistant of the <a  Labhref="https://slablab.weebly.com/" target
 - Age-related Differences in Language Learning
 
 ## Publications & Presentations
-- **Liang, J.**, Zhang, H. Music Experience Facilitates Lexical and Sub-lexical Processing of English Vowels: An Eye-tracking Study. (in preparation)
+- **Liang, J.**, Zhang, H. Effects of Mandarin Speakers’ Musical Aptitude on the Perception of English Vowels: An
+ Eye-tracking Study. (in preparation)
 - **Liang, J.**, Zhang, H. Mandarin-speaking Musicians Show Enhanced Perception-Production Link of L2 English Vowels. (in preparation)
 - Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults. (in preparation)
 - **Liang, J.**, Zhang, H. (2023). Perception-Production Links in Mandarin Speakers' English Vowels: A Behavioral and Eye-tracking Study. In <em>The 2nd National Symposium on Clinical Linguistics (NSCL2023)</em>, Jinan, Shandong. (oral presentation)
@@ -22,9 +23,9 @@ I'm a research assistant of the <a  Labhref="https://slablab.weebly.com/" target
 
 
 ## Research Experience
-[2024-present] <strong>Efficacy of Melodic Training and Sleep-mediated Memory Consolidation in Learning Cantonese Level Tones by Native Speakers of Mandarin and English</strong><br>
+[2024-present] <strong>Efficacy of Melodic Training and Sleep-mediated Memory Consolidation in Learning Cantonese Level Tones by Native Speakers of Mandarin and Korean</strong><br>
 - Conducted extensive literature review.
-- Currently leading efforts to recruit 120 college students, comprising 60 Mandarin speakers and 60 English speakers, to engage in the <a href="#melodicTraining2023">music training program and associated assessments,</a> developed in the previous study.
+- Recruited 80 Mandarin-speaking college students to engage in the <a href="#melodicTraining2023">music training program and associated assessments,</a> developed in the previous study.
 
 
 
@@ -51,7 +52,7 @@ I'm a research assistant of the <a  Labhref="https://slablab.weebly.com/" target
 - Conducted thorough literature review.
 - Synthesized and manipulated experimental stimuli using MATLAB (<a href="https://ieeexplore.ieee.org/document/4518514" target="_blank">TANDEM-STRAIGHT</a>).
 - Designed eye-tracking experiments with <a href="https://www.sr-research.com/experiment-builder/" target="_blank">Experiment Builder</a>. 
-- Recruited 50 college students for participation.
+- Recruited 60 college students for participation.
 - Employed automatic annotation for production data using <a href="https://sppas.org/" target="_blank">SPPAS</a> and <a href="http://darla.dartmouth.edu/index" target="_blank">DARLA</a>, and automatic extraction of F1 and F2 values in MATLAB (<a href="https://phonetics.ucla.edu/voicesauce/" target="_blank">VoiceSauce</a>).
 - Calculated participants' boundary width in Python to assess perception performance.
 - Processed eye-movement data in R (<a href="http://www.eyetracking-r.com/" target="_blank">eyetrackingR</a>) and calculated the difference between the empirical log-transformed proportions of target and competitor fixations.
@@ -62,7 +63,7 @@ I'm a research assistant of the <a  Labhref="https://slablab.weebly.com/" target
 
 [2023] **Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers**
 - Conducted literature review, synthesized and manipulated experimental stimuli using MATLAB (<a href="https://ieeexplore.ieee.org/document/4518514" target="_blank">TANDEM-STRAIGHT</a>).
-- Recruited 20 college students for participation.
+- Recruited 24 college students for participation.
 - Designed and executed experiments in <a href="https://www.psychopy.org/" target="_blank">Psychopy</a>.
 - Performed ANOVA and Pearson correlation analysis in Python (<a href="https://pypi.org/project/pandas/" target="_blank">Pandas</a>).
 - Wrote the manuscript.
@@ -89,8 +90,8 @@ I'm a research assistant of the <a  Labhref="https://slablab.weebly.com/" target
 
 
 ## Service
-- [2023-present] Research assistant at Shandong University
-
+- [2023-2024] Research assistant at Shandong University
+- [2024-2025] Research assistant at Hong Kong University of Science and Technology
 
 ## Skills
 - Programming: Python, R, JavaScript and MATLAB
