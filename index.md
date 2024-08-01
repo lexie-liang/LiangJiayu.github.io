@@ -3,9 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I'm a fourth-year undergraduate majoring in English Language and Literature at Shandong University, working under the mentorship of Prof.<a href="https://www.researchgate.net/profile/Hao-Zhang-39" target="_blank"> Hao Zhang</a>. My research areas include experimental phonetics, second/foreign language acquisition, and psycholinguistics.
-For my undergraduate thesis, I employed behavioral and eye-tracking methodologies to investigate the impact of music experience on the production and perception of English vowels among Mandarin-speaking second language learners. Recently, I started studying the efficacy of musical training and sleep-mediated memory consolidation in the acquisition of Cantonese level tones, particularly examining their influence on speakers of tonal languages like Mandarin as well as non-tonal languages such as English and Korean.
-
+I'm a research assistant of the <a  Labhref="https://slablab.weebly.com/" target="_blank">Speech, Learning, and the Brain (SLaB)</a> at the Hong Kong University of Science and Technology, working under the mentorship of Prof.<a href="https://sites.google.com/site/qinzhenquentin/" target="_blank"> Zhen QIN</a>. My research areas include experimental phonetics, second/foreign language acquisition, and psycholinguistics. My current research uses psycholinguistic methods to examine how English lexical stress is perceptually learned and consolidated by second-language learners.
 
 
 ## Research Interests
@@ -14,12 +12,12 @@ For my undergraduate thesis, I employed behavioral and eye-tracking methodologie
 - Age-related Differences in Language Learning
 
 ## Publications & Presentations
-- **Liang, J., Zhang, H.** Music Experience Facilitates Lexical and Sub-lexical Processing of English Vowels: An Eye-tracking Study. (in preparation)
-- **Liang, J., Zhang, H.** Mandarin-speaking Musicians Show Enhanced Perception-Production Link of L2 English Vowels. (in preparation)
-- **Zhang, H., Liang, J.** (co-first author). Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults. (in preparation)
-- **Liang, J., Zhang, H.** (2023). Perception-Production Links in Mandarin Speakers' English Vowels: A Behavioral and Eye-tracking Study. In <em>The 2nd National Symposium on Clinical Linguistics (NSCL2023)</em>, Jinan, Shandong. (oral presentation)
-- **Liang, J., Jia, B., Liu, J., Li, X., Zhang, H.** (2023). Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers. In <em>The 14th International Conference in Evolutionary Linguistics (CIEL2023)</em>, Hong Kong. (poster)
-- **Liang, J., Jia, B., Liu, J., Li, X., Zhang, H.** (2023). Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers. In <em>The 15th Phonetic Conference of China (PCC2023)</em>, Shenzhen, Guangdong. (oral presentation)
+- **Liang, J.**, Zhang, H. Music Experience Facilitates Lexical and Sub-lexical Processing of English Vowels: An Eye-tracking Study. (in preparation)
+- **Liang, J.**, Zhang, H. Mandarin-speaking Musicians Show Enhanced Perception-Production Link of L2 English Vowels. (in preparation)
+- Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults. (in preparation)
+- **Liang, J.**, Zhang, H. (2023). Perception-Production Links in Mandarin Speakers' English Vowels: A Behavioral and Eye-tracking Study. In <em>The 2nd National Symposium on Clinical Linguistics (NSCL2023)</em>, Jinan, Shandong. (oral presentation)
+- **Liang, J.**, Jia, B., Liu, J., Li, X., Zhang, H. (2023). Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers. In <em>The 14th International Conference in Evolutionary Linguistics (CIEL2023)</em>, Hong Kong. (poster)
+- **Liang, J.**, Jia, B., Liu, J., Li, X., Zhang, H. (2023). Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers. In <em>The 15th Phonetic Conference of China (PCC2023)</em>, Shenzhen, Guangdong. (oral presentation)
 
 
 
