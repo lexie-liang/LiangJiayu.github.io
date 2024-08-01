@@ -81,8 +81,8 @@ I'm a research assistant of the <a href="https://slablab.weebly.com/" target="_b
 
 
 ## Awards
-- [Jun. 2022] College Students' Innovative and Entrepreneurial Training Program Funding Supported by Shandong University
-- [Sep. 2021] The Third-Class Undergraduate Academic Scholarship
+- [2022] College Students' Innovative and Entrepreneurial Training Program Funding Supported by Shandong University
+- [2021] The Third-Class Undergraduate Academic Scholarship
 
 
 
