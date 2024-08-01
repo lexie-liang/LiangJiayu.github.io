@@ -6,7 +6,7 @@ layout: homepage
 I'm a research assistant of the <a href="https://slablab.weebly.com/" target="_blank">Speech, Learning, and the Brain (SLaB) Lab</a> at the Hong Kong University of Science and Technology, working under the mentorship of Prof. <a href="https://sites.google.com/site/qinzhenquentin/" target="_blank">Zhen QIN</a>. I'm interested in experimental phonetics, second/foreign language acquisition, and psycholinguistics. My current research uses psycholinguistic methods to examine how English lexical stress is perceptually learned and consolidated by second-language learners.
 
 ## Education
-[2023-2024]  **BA in English** at Shandong University (Average Grade: 88.71/100)
+- [2023-2024]  **BA in English** at Shandong University (Average Grade: 88.71/100)
 
 ## Research Interests
 - Production and Perception of Non-native Language
