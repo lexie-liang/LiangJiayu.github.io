@@ -9,7 +9,7 @@ I'm a research assistant of the <a href="https://slablab.weebly.com/" target="_b
 - [2023-2024]  **BA in English** at Shandong University (Average Grade: 88.71/100)
 
 ## Research Interests
-- Production and Perception of Non-native Language
+- Production and Perception of Non-native Languages
 - Cross-domain Transfer Effects between Music and Language Experience
 - Age-related Differences in Language Learning
 
