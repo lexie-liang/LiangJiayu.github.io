@@ -103,8 +103,8 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
 
 
 ## Awards
-- [2022] College Students' Innovative and Entrepreneurial Training Program Funding Supported by Shandong University
-- [2021] The Third-Class Undergraduate Academic Scholarship
+- College Students' Innovative and Entrepreneurial Training Program Funding Supported by Shandong University [2022]
+- The Third-Class Undergraduate Academic Scholarship [2021]
 
 
 
@@ -117,8 +117,8 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
 
 
 ## Service
-- [2024-2025] Research assistant at Hong Kong University of Science and Technology
-- [2023-2024] Research assistant at Shandong University
+- Research assistant at Hong Kong University of Science and Technology [2024-2025]
+- Research assistant at Shandong University [2023-2024]
 
 
 ## Skills
