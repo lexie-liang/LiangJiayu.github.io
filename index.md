@@ -95,7 +95,7 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
 
 <ul class="research-list">
     <li>
-        <strong>Enhancing the Perception and Recognition of Spoken Words in a Second Language: A Cue-Weighting Approach</strong>
+        <strong>Enhancing the Perception and Recognition of Spoken Words in a Second Language: A Cue-Weighting Approach</strong><br>
         <span class="date">[present]</span>
         <ul class="inner-list">
             <li>Assisted in the setup of eye-tracking experiments.</li>
