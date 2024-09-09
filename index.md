@@ -97,6 +97,7 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
 
     .research-list li {
         margin-bottom: 15px; /* 每个列表项之间的间距 */
+        list-style-position: outside; /* 圆点放在文本外 */
     }
 
     .date {
@@ -105,7 +106,7 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
         margin-top: 5px; /* 日期与标题间的间距 */
     }
 
-    ul.inner-list {
+    .inner-list {
         list-style-type: circle; /* 第二层嵌套列表使用空心圆 */
         margin-left: 40px;
     }
@@ -115,7 +116,7 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
 
 <ul class="research-list">
     <li>
-        <strong>Enhancing the Perception and Recognition of Spoken Words in a Second Language: A Cue-Weighting Approach</strong><br>
+        <strong>Enhancing the Perception and Recognition of Spoken Words in a Second Language: A Cue-Weighting Approach</strong>
         <span class="date">[present]</span>
         <ul class="inner-list">
             <li>Assisted in the setup of eye-tracking experiments.</li>
