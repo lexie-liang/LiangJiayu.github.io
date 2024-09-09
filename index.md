@@ -102,16 +102,8 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
 
     .research-title {
         flex-grow: 1;
-        padding-left: 0;  /* 清除不必要的左边距 */
-    }
-
-    .research-title strong {
-        display: inline-block;
-        text-indent: 0px; /* 确保第一行不缩进 */
-    }
-
-    .research-title strong::before {
-        content: ""; /* 不显示缩进符 */
+        padding-left: 0;  /* 不要让标题有左边距 */
+        text-indent: 0;   /* 确保第一行没有缩进 */
     }
 </style>
 
