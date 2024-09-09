@@ -51,7 +51,7 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
 
 
 
-[2023.11-2024.04] <strong>Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults</strong> <br>
+<strong>Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults</strong> <br>[2023.11-2024.04]
 <ul>
     <li>Conducted comprehensive literature review.</li>
     <li id="melodicTraining2023">Developed and implemented a Melodic Height Identification Training program and associated assessments (identification and discrimination tests), utilizing JavaScript (<a href="https://www.jspsych.org/7.3/" target="_blank">jsPsych</a>).</li>
@@ -66,7 +66,7 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
 
 
 
-[2023.07-2024.05] **Perception-Production Links in Mandarin Speakers' English Vowels: A Behavioral and Eye-tracking Study**<br>
+**Perception-Production Links in Mandarin Speakers' English Vowels: A Behavioral and Eye-tracking Study**<br>[2023.07-2024.05]
 - Conducted thorough literature review.
 - Synthesized and manipulated experimental stimuli using MATLAB (<a href="https://ieeexplore.ieee.org/document/4518514" target="_blank">TANDEM-STRAIGHT</a>).
 - Designed eye-tracking experiments with <a href="https://www.sr-research.com/experiment-builder/" target="_blank">Experiment Builder</a>. 
@@ -80,7 +80,7 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
 
 
 
-[2023.03-06] **Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers**
+**Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers**<br>[2023.03-06] 
 - Conducted literature review, synthesized and manipulated experimental stimuli using MATLAB (<a href="https://ieeexplore.ieee.org/document/4518514" target="_blank">TANDEM-STRAIGHT</a>).
 - Recruited 24 college students for participation.
 - Designed and executed experiments in <a href="https://www.psychopy.org/" target="_blank">Psychopy</a>.
