@@ -32,16 +32,16 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
 
 
 ## Research Experience
-[present] <strong>Enhancing the Perception and Recognition of Spoken Words in a Second Language: A Cue-Weighting Approach </strong><br>
+<strong>Enhancing the Perception and Recognition of Spoken Words in a Second Language: A Cue-Weighting Approach </strong><br>[present]
 
 - Assisted in the setup of eye-tracking experiments.
 
 
-[present] <strong>Effects of Tone Types and Bilingual Experiences on Forced-attention Dichotic Task in Cantonese-speaking Older Adults</strong><br>
+<strong>Effects of Tone Types and Bilingual Experiences on Forced-attention Dichotic Task in Cantonese-speaking Older Adults</strong><br>[present]
 - Recruit and conduct experiments with 30 Cantonese-speaking older adults.
 
 
-[2024.04-present] <strong>Efficacy of Melodic Training and Sleep-mediated Memory Consolidation in Learning Cantonese Level Tones by Mandarin-speaking Younger Adults</strong><br>
+<strong>Efficacy of Melodic Training and Sleep-mediated Memory Consolidation in Learning Cantonese Level Tones by Mandarin-speaking Younger Adults</strong><br>[2024.04-present]
 - Conducted extensive literature review.
 - Recruited 80 Mandarin-speaking college students to engage in the <a href="#melodicTraining2023">music training program and associated assessments,</a> developed in the previous study.
 
@@ -87,51 +87,7 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
 - Performed ANOVA and Pearson correlation analysis in Python (<a href="https://pypi.org/project/pandas/" target="_blank">Pandas</a>).
 - Wrote the manuscript.
 
-<style>
-    .research-item {
-        display: flex;
-        align-items: flex-start;
-        margin-bottom: 20px;
-    }
 
-    .research-date {
-        min-width: 120px; /* 固定日期宽度 */
-        margin-right: 10px;
-        white-space: nowrap; /* 防止日期换行 */
-    }
-
-    .research-title {
-        flex-grow: 1;
-        padding-left: 0;  /* 不要让标题有左边距 */
-        text-indent: 0;   /* 确保第一行没有缩进 */
-    }
-</style>
-
-<div class="research-item">
-    <div class="research-date">[present]</div>
-    <div class="research-title">
-        <strong>Enhancing the Perception and Recognition of Spoken Words in a Second Language: A Cue-Weighting Approach</strong>
-    </div>
-</div>
-<p> - Assisted in the setup of eye-tracking experiments.</p>
-
-<div class="research-item">
-    <div class="research-date">[present]</div>
-    <div class="research-title">
-        <strong>Effects of Tone Types and Bilingual Experiences on Forced-attention Dichotic Task in Cantonese-speaking Older Adults</strong>
-    </div>
-</div>
-<p> - Recruit and conduct experiments with 30 Cantonese-speaking older adults.</p>
-
-<div class="research-item">
-    <div class="research-date">[2024.04-present]</div>
-    <div class="research-title">
-        <strong>Efficacy of Melodic Training and Sleep-mediated Memory Consolidation in Learning Cantonese Level Tones by Mandarin-speaking Younger Adults</strong>
-    </div>
-</div>
-<p> - Conducted extensive literature review.<br>
-    - Recruited 80 Mandarin-speaking college students to engage in the <a href="#melodicTraining2023">music training program and associated assessments,</a> developed in the previous study.
-</p>
 
 
 
