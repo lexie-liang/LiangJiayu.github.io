@@ -6,7 +6,7 @@ layout: homepage
 I'm a research assistant of the <a href="https://slablab.weebly.com/" target="_blank">Speech, Learning, and the Brain (SLaB) Lab</a> at the Hong Kong University of Science and Technology, working under the mentorship of Prof. <a href="https://sites.google.com/site/qinzhenquentin/" target="_blank">Zhen QIN</a>. Before joining the <a href="https://slablab.weebly.com/" target="_blank">SLaB Lab</a>, I was supervised by Prof. <a href="https://www.researchgate.net/profile/Hao-Zhang-39" target="_blank">Hao ZHANG</a> for my undergraduate studies. I'm interested in experimental phonetics, second/foreign language acquisition, and psycholinguistics. Currently, I am mainly involved in an eye-tracking study examining L2 learners' perceptual learning and consolidation of English lexical stress.
 
 ## Education
-**BA in English** at Shandong University (Average Grade: 88.71/100)   <span style="float: right;">[2023-2024]</span>
+**BA in English** at Shandong University (Average Grade: 88.71/100)   <span style="float: right;">[2020-2024]</span>
 
 ## Research Interests
 - Production and Perception of Non-native Languages
