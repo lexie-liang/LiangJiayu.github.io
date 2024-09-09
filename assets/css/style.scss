@@ -2,3 +2,18 @@
 ---
 
 @import "minimal-light";
+a {
+  color: rgba(0, 0, 255, 1); /* Blue with full opacity */
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgba(0, 0, 139, 0.8); /* Dark blue with 80% opacity */
+}
+
+@media (prefers-color-scheme: dark) {
+  a {
+    color: rgba(173, 216, 230, 0.9); /* Light blue with 90% opacity in dark mode */
+  }
+}
+
