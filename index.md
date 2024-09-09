@@ -35,8 +35,8 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
 
 <ul class="research-list">
     <li>
-        <strong>Enhancing the Perception and Recognition of Spoken Words in a Second Language: A Cue-Weighting Approach</strong><br>
-        <span class="date">[Present]</span>
+        <strong>Enhancing the Perception and Recognition of Spoken Words in a Second Language: A Cue-Weighting Approach</strong>
+        <span style="float: right;">[Present]</span>
         <ul class="inner-list">
             <li>Assisted in the setup of eye-tracking experiments.</li>
         </ul>
@@ -86,8 +86,8 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
         </ul>
     </li>
     <li>
-        <strong>Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers</strong><br>
-        <span class="date">[2023.03-06]</span><br>
+        <strong>Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers</strong>
+        <span style="float: right;">[2023.03-06]</span><br><span class="date">[2023.03-06]</span><br>
         <ul class="inner-list">
             <li>Conducted literature review, synthesized and manipulated experimental stimuli using MATLAB (<a href="https://ieeexplore.ieee.org/document/4518514" target="_blank">TANDEM-STRAIGHT</a>).</li>
             <li>Recruited 24 college students for participation.</li>
