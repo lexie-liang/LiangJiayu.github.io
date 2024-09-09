@@ -89,28 +89,7 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
 
 
 
-<style>
-    .research-list {
-        list-style-type: disc; /* 外层列表使用实心圆 */
-        margin-left: 20px;
-    }
 
-    .research-list li {
-        margin-bottom: 15px; /* 每个列表项之间的间距 */
-        list-style-position: outside; /* 圆点放在文本外 */
-    }
-
-    .date {
-        margin-left: 0; /* 确保日期与标题左对齐 */
-        display: block;
-        margin-top: 5px; /* 日期与标题间的间距 */
-    }
-
-    .inner-list {
-        list-style-type: circle; /* 第二层嵌套列表使用空心圆 */
-        margin-left: 40px;
-    }
-</style>
 
 <h2>Research Experience</h2>
 
