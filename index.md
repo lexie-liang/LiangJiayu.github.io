@@ -82,6 +82,7 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
             <li>Processed eye-movement data in R (<a href="http://www.eyetracking-r.com/" target="_blank">eyetrackingR</a>) and calculated the difference between the empirical log-transformed proportions of target and competitor fixations.</li>
             <li>Calculated participants' Pillai score in R to measure vowel overlap andplotted vowel overlap using F1 and F2 values in R (<a href="https://ggplot2.tidyverse.org/" target="_blank">ggplot2</a>).</li>
             <li>Conducted LME and Growth Curve Analysis (GCA) in R (<a href="https://cran.r-project.org/web/packages/lme4/index.html" target="_blank">lme4</a>).</li>
+            <li>Wrote the manuscript.</li>
         </ul>
     </li>
     <li>
