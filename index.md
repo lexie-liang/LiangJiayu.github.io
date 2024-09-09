@@ -53,7 +53,7 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
         <span class="date">[2024.04-Present]</span>
         <ul class="inner-list">
             <li>Conducted extensive literature review.</li>
-            <li>Recruited 80 Mandarin-speaking college students to engage in the <a href="#melodicTraining2023">music training program and associated assessments,</a> developed in the previous study.</li>
+            <li>Recruited 80 Mandarin-speaking college students to engage in the music training program and associated assessments, developed in the <a href="#melodicTraining2023">previous study</a>.</li>
         </ul>
     </li>
     <li>
