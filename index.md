@@ -100,8 +100,9 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
     }
 
     .date {
-        margin-left: 20px; /* 调整日期的左边距，使其与标题对齐 */
+        margin-left: 0; /* 确保日期与标题左对齐 */
         display: block;
+        margin-top: 5px; /* 日期与标题间的间距 */
     }
 
     ul.inner-list {
@@ -159,7 +160,7 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
             <li>Employed automatic annotation for production data using <a href="https://sppas.org/" target="_blank">SPPAS</a> and <a href="http://darla.dartmouth.edu/index" target="_blank">DARLA</a>, and automatic extraction of F1 and F2 values in MATLAB (<a href="https://phonetics.ucla.edu/voicesauce/" target="_blank">VoiceSauce</a>).</li>
             <li>Calculated participants' boundary width in Python to assess perception performance.</li>
             <li>Processed eye-movement data in R (<a href="http://www.eyetracking-r.com/" target="_blank">eyetrackingR</a>) and calculated the difference between the empirical log-transformed proportions of target and competitor fixations.</li>
-            <li>Calculated participants' Pillai score in R to measure vowel overlap and plotted vowel overlap using F1 and F2 values in R (<a href="https://ggplot2.tidyverse.org/" target="_blank">ggplot2</a>).</li>
+            <li>Calculated participants' Pillai score in R to measure vowel overlap andplotted vowel overlap using F1 and F2 values in R (<a href="https://ggplot2.tidyverse.org/" target="_blank">ggplot2</a>).</li>
             <li>Conducted LME and Growth Curve Analysis (GCA) in R (<a href="https://cran.r-project.org/web/packages/lme4/index.html" target="_blank">lme4</a>).</li>
         </ul>
     </li>
@@ -175,6 +176,7 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
         </ul>
     </li>
 </ul>
+
 
 
 
