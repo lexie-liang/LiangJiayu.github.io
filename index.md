@@ -86,7 +86,7 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
     </li>
     <li>
         <strong>Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers</strong><br>
-        <span class="date" style="float: right;">[2023.03-06]</span><br>
+        <span class="date">[2023.03-06]</span><br>
         <ul class="inner-list">
             <li>Conducted literature review, synthesized and manipulated experimental stimuli using MATLAB (<a href="https://ieeexplore.ieee.org/document/4518514" target="_blank">TANDEM-STRAIGHT</a>).</li>
             <li>Recruited 24 college students for participation.</li>
