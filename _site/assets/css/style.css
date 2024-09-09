@@ -165,7 +165,7 @@ email {
   color: white; }
 
 autocolor {
-  color: #289de0; }
+  color: #57068c; }
 
 lightonly {
   visibility: visible; }
@@ -311,15 +311,20 @@ h1 {
   font-size: 28px; }
 
 a {
-  color: #702b9d;
-  text-decoration: none; }
+  color: rgba(0, 0, 255, 1); /* Blue with full opacity */
+  text-decoration: none;
+}
 
 a:hover {
-  color: #330662; }
+  color: rgba(0, 0, 139, 0.8); /* Dark blue with 80% opacity */
+}
 
 @media (prefers-color-scheme: dark) {
   a {
-    color: #ab82c5; } }
+    color: rgba(173, 216, 230, 0.9); /* Light blue with 90% opacity in dark mode */
+  }
+}
+
 a small {
   font-size: 11px;
   color: #777;
