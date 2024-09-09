@@ -58,7 +58,7 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
     </li>
     <li>
         <strong>Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults</strong><br>
-        <span class="date">[2023.11-2024.04]</span>
+        <span class="date">[2023.11-Present]</span>
         <ul class="inner-list">
             <li>Conducted comprehensive literature review.</li>
             <li id="melodicTraining2023">Developed and implemented a Melodic Height Identification Training program and associated assessments (identification and discrimination tests), utilizing JavaScript (<a href="https://www.jspsych.org/7.3/" target="_blank">jsPsych</a>).</li>
@@ -71,7 +71,7 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
     </li>
     <li>
         <strong>Perception-Production Links in Mandarin Speakers' English Vowels: A Behavioral and Eye-tracking Study</strong><br>
-        <span class="date">[2023.07-2024.05]</span>
+        <span class="date">[2023.07-2024.07]</span>
         <ul class="inner-list">
             <li>Conducted thorough literature review.</li>
             <li>Synthesized and manipulated experimental stimuli using MATLAB (<a href="https://ieeexplore.ieee.org/document/4518514" target="_blank">TANDEM-STRAIGHT</a>).</li>
