@@ -96,28 +96,28 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
 <ul class="research-list">
     <li>
         <strong>Enhancing the Perception and Recognition of Spoken Words in a Second Language: A Cue-Weighting Approach</strong><br>
-        <span class="date">[present]</span>
+        <span class="date">[Present]</span>
         <ul class="inner-list">
             <li>Assisted in the setup of eye-tracking experiments.</li>
         </ul>
     </li>
     <li>
-        <strong>Effects of Tone Types and Bilingual Experiences on Forced-attention Dichotic Task in Cantonese-speaking Older Adults</strong>
-        <span class="date">[present]</span>
+        <strong>Effects of Tone Types and Bilingual Experiences on Forced-attention Dichotic Task in Cantonese-speaking Older Adults</strong><br>
+        <span class="date">[Present]</span>
         <ul class="inner-list">
             <li>Recruit and conduct experiments with 30 Cantonese-speaking older adults.</li>
         </ul>
     </li>
     <li>
-        <strong>Efficacy of Melodic Training and Sleep-mediated Memory Consolidation in Learning Cantonese Level Tones by Mandarin-speaking Younger Adults</strong>
-        <span class="date">[2024.04-present]</span>
+        <strong>Efficacy of Melodic Training and Sleep-mediated Memory Consolidation in Learning Cantonese Level Tones by Mandarin-speaking Younger Adults</strong><br>
+        <span class="date">[2024.04-Present]</span>
         <ul class="inner-list">
             <li>Conducted extensive literature review.</li>
             <li>Recruited 80 Mandarin-speaking college students to engage in the <a href="#melodicTraining2023">music training program and associated assessments,</a> developed in the previous study.</li>
         </ul>
     </li>
     <li>
-        <strong>Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults</strong>
+        <strong>Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults</strong><br>
         <span class="date">[2023.11-2024.04]</span>
         <ul class="inner-list">
             <li>Conducted comprehensive literature review.</li>
@@ -130,7 +130,7 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
         </ul>
     </li>
     <li>
-        <strong>Perception-Production Links in Mandarin Speakers' English Vowels: A Behavioral and Eye-tracking Study</strong>
+        <strong>Perception-Production Links in Mandarin Speakers' English Vowels: A Behavioral and Eye-tracking Study</strong><br>
         <span class="date">[2023.07-2024.05]</span>
         <ul class="inner-list">
             <li>Conducted thorough literature review.</li>
@@ -145,7 +145,7 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
         </ul>
     </li>
     <li>
-        <strong>Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers</strong>
+        <strong>Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers</strong><br>
         <span class="date">[2023.03-06]</span>
         <ul class="inner-list">
             <li>Conducted literature review, synthesized and manipulated experimental stimuli using MATLAB (<a href="https://ieeexplore.ieee.org/document/4518514" target="_blank">TANDEM-STRAIGHT</a>).</li>
