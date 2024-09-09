@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I'm a research assistant of the <a href="https://slablab.weebly.com/" target="_blank">Speech, Learning, and the Brain (SLaB) Lab</a> at the Hong Kong University of Science and Technology, working under the mentorship of Prof. <a href="https://sites.google.com/site/qinzhenquentin/" target="_blank">Zhen QIN</a>. I'm interested in experimental phonetics, second/foreign language acquisition, and psycholinguistics. Currently, I am involved in an eye-tracking study examining L2 learners' perceptual learning and consolidation of English lexical stress.
+I'm a research assistant of the <a href="https://slablab.weebly.com/" target="_blank">Speech, Learning, and the Brain (SLaB) Lab</a> at the Hong Kong University of Science and Technology, working under the mentorship of Prof. <a href="https://sites.google.com/site/qinzhenquentin/" target="_blank">Zhen QIN</a>. Before joining the <a href="https://slablab.weebly.com/" target="_blank">SLaB Lab</a>, I was supervised by Prof. <a href="https://www.researchgate.net/profile/Hao-Zhang-39" target="_blank">Hao ZHANG</a> for my undergraduate studies. I'm interested in experimental phonetics, second/foreign language acquisition, and psycholinguistics. Currently, I am mainly involved in an eye-tracking study examining L2 learners' perceptual learning and consolidation of English lexical stress.
 
 ## Education
 - [2023-2024]  **BA in English** at Shandong University (Average Grade: 88.71/100)
@@ -27,6 +27,14 @@ I'm a research assistant of the <a href="https://slablab.weebly.com/" target="_b
 
 
 ## Research Experience
+[present] <strong>Enhancing the Perception and Recognition of Spoken Words in a Second Language: A Cue-Weighting Approach </strong><br>
+- Assisted in the setup of eye-tracking experiments.
+
+
+[present] <strong>Effects of Tone Types and Bilingual Experiences on Forced-attention Dichotic Task in Cantonese-speaking Older Adults</strong><br>
+- Recruit and conduct experiments with 30 Cantonese-speaking older adults.
+
+
 [2024-present] <strong>Efficacy of Melodic Training and Sleep-mediated Memory Consolidation in Learning Cantonese Level Tones by Mandarin-speaking Younger Adults</strong><br>
 - Conducted extensive literature review.
 - Recruited 80 Mandarin-speaking college students to engage in the <a href="#melodicTraining2023">music training program and associated assessments,</a> developed in the previous study.
@@ -41,7 +49,7 @@ I'm a research assistant of the <a href="https://slablab.weebly.com/" target="_b
 <ul>
     <li>Conducted comprehensive literature review.</li>
     <li id="melodicTraining2023">Developed and implemented a Melodic Height Identification Training program and associated assessments (identification and discrimination tests), utilizing JavaScript (<a href="https://www.jspsych.org/7.3/" target="_blank">jsPsych</a>).</li>
-    <li>Recruited 30 participants, including 15 Korean and 15 Chinese older adults.</li>
+    <li>Recruited and conducted experiments with 30 participants, including 15 Korean and 15 Chinese older adults.</li>
     <li>Employed <a href="https://sppas.org/" target="_blank">SPPAS</a> and <a href="https://montreal-forced-aligner.readthedocs.io/en/latest/" target="_blank">Montreal Forced Aligner</a> for automatic annotation of production data, and MATLAB (<a href="https://phonetics.ucla.edu/voicesauce/" target="_blank">VoiceSauce</a>) for automatic extraction of F0 values.</li>
     <li>Analyzed participants' tone differentiability and hit rate to evaluate production performance and generated tone overlap plots.</li>
     <li>Transformed perception data (accuracy percentages) into rationalized arcsine units (RAUs) for statistical analysis.</li>
@@ -56,7 +64,7 @@ I'm a research assistant of the <a href="https://slablab.weebly.com/" target="_b
 - Conducted thorough literature review.
 - Synthesized and manipulated experimental stimuli using MATLAB (<a href="https://ieeexplore.ieee.org/document/4518514" target="_blank">TANDEM-STRAIGHT</a>).
 - Designed eye-tracking experiments with <a href="https://www.sr-research.com/experiment-builder/" target="_blank">Experiment Builder</a>. 
-- Recruited 60 college students for participation.
+- Recruited and conducted eye-tracking experiments with 60 college students.
 - Employed automatic annotation for production data using <a href="https://sppas.org/" target="_blank">SPPAS</a> and <a href="http://darla.dartmouth.edu/index" target="_blank">DARLA</a>, and automatic extraction of F1 and F2 values in MATLAB (<a href="https://phonetics.ucla.edu/voicesauce/" target="_blank">VoiceSauce</a>).
 - Calculated participants' boundary width in Python to assess perception performance.
 - Processed eye-movement data in R (<a href="http://www.eyetracking-r.com/" target="_blank">eyetrackingR</a>) and calculated the difference between the empirical log-transformed proportions of target and competitor fixations.
