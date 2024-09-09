@@ -27,11 +27,13 @@ I'm a research assistant of the <a href="https://slablab.weebly.com/" target="_b
 
 
 ## Research Experience
-[present] <strong>Enhancing the Perception and Recognition of Spoken Words in a Second Language: A Cue-Weighting Approach </strong><br>
+<strong>Enhancing the Perception and Recognition of Spoken Words in a Second Language: A Cue-Weighting Approach </strong><br>
+[present] <br>
 - Assisted in the setup of eye-tracking experiments.
 
 
-[present] <strong>Effects of Tone Types and Bilingual Experiences on Forced-attention Dichotic Task in Cantonese-speaking Older Adults</strong><br>
+<strong>Effects of Tone Types and Bilingual Experiences on Forced-attention Dichotic Task in Cantonese-speaking Older Adults</strong><br>
+[present] <br>
 - Recruit and conduct experiments with 30 Cantonese-speaking older adults.
 
 
