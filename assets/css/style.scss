@@ -2,3 +2,11 @@
 ---
 
 @import "minimal-light";
+a {
+  color: rgb(0, 0, 255) !important; /* Force the color to blue */
+}
+
+a:hover {
+  color: rgb(0, 0, 139) !important; /* Force the hover color to dark blue */
+}
+
