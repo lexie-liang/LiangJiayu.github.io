@@ -6,7 +6,7 @@ layout: homepage
 I'm a research assistant of the <a href="https://slablab.weebly.com/" target="_blank">Speech, Learning, and the Brain (SLaB) Lab</a> at the Hong Kong University of Science and Technology, working under the mentorship of Prof. <a href="https://sites.google.com/site/qinzhenquentin/" target="_blank">Zhen QIN</a>. Before joining the <a href="https://slablab.weebly.com/" target="_blank">SLaB Lab</a>, I was supervised by Prof. <a href="https://www.researchgate.net/profile/Hao-Zhang-39" target="_blank">Hao ZHANG</a> for my undergraduate studies. I'm interested in experimental phonetics, second/foreign language acquisition, and psycholinguistics. Currently, I am mainly involved in an eye-tracking study examining L2 learners' perceptual learning and consolidation of English lexical stress.
 
 ## Education
-**BA in English** at Shandong University (Average Grade: 88.71/100)   <span style="float: right;">[2020-2024]</span>
+**BA in English** at Shandong University (Average Grade: 88.71/100)  [2020-2024]
 
 ## Research Interests
 - Production and Perception of Non-native Languages
@@ -35,8 +35,8 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
 
 <ul class="research-list">
     <li>
-        <strong>Enhancing the Perception and Recognition of Spoken Words in a Second Language: A Cue-Weighting Approach</strong>
-        <span style="float: right;">[Present]</span>
+        <strong>Enhancing the Perception and Recognition of Spoken Words in a Second Language: A Cue-Weighting Approach</strong><br>
+        <span class="date">[Present]</span>
         <ul class="inner-list">
             <li>Assisted in the setup of eye-tracking experiments.</li>
         </ul>
@@ -86,8 +86,8 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
         </ul>
     </li>
     <li>
-        <strong>Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers</strong>
-        <span style="float: right;">[2023.03-06]</span><br><span class="date">[2023.03-06]</span><br>
+        <strong>Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers</strong><br>
+        <span class="date">[2023.03-06]</span><br>
         <ul class="inner-list">
             <li>Conducted literature review, synthesized and manipulated experimental stimuli using MATLAB (<a href="https://ieeexplore.ieee.org/document/4518514" target="_blank">TANDEM-STRAIGHT</a>).</li>
             <li>Recruited 24 college students for participation.</li>
