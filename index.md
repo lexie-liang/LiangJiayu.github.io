@@ -35,7 +35,7 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
 
 <ul class="research-list">
     <li>
-        <strong>Adult second-language learners’ consolidation of Cantonese tones during daytime naps: the role of prior knowledge</strong><br>
+        <strong>Adult Second-language Learners’ Consolidation of Cantonese Tones during Daytime Naps: the Role of Prior Knowledge</strong><br>
         <span class="date">[Present]</span>
         <ul class="inner-list">
             <li>Assisted in conducting EEG experiments.</li>
@@ -52,7 +52,7 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
         <strong>Effects of Tone Types and Bilingual Experiences on Forced-attention Dichotic Task in Cantonese-speaking Older Adults</strong><br>
         <span class="date">[Present]</span>
         <ul class="inner-list">
-            <li>Recruited and conducted experiments with 15 Cantonese-speaking older adults.</li>
+            <li>Assisted in recruiting and conducting experiments with 15 Cantonese-speaking older adults.</li>
         </ul>
     </li>
     <li>
