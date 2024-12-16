@@ -14,11 +14,11 @@ I'm a research assistant in the <a href="https://slablab.weebly.com/" target="_b
 - Age-related Differences in Language Learning
 
 ## Publications & Presentations
-Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults. (in preparation)
+**Liang, J.**, Ma, W., Zhang, Y., Zhang, H. Effects of Mandarin Speakers’ Musical Aptitude on the Perception of English Vowels: An Eye-tracking Study. (in preparation)
 
 **Liang, J.**, Zhang, H. Mandarin-speaking Musicians Show Enhanced Perception-Production Link of L2 English Vowels. (in preparation)
 
-**Liang, J.**, Ma, W., Zhang, Y., Zhang, H. Effects of Mandarin Speakers’ Musical Aptitude on the Perception of English Vowels: An Eye-tracking Study. (in preparation)
+Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults. (in preparation)
 
 **Liang, J.**, Zhang, H. (2024). Effects of Mandarin Speakers’ Musical Aptitude on the Perception of English Vowels: An Eye-tracking Study. In *The 15th International Conference in Evolutionary Linguistics (CIEL2024)*, Changsha, Hunan. (poster)
 
