@@ -41,7 +41,6 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
         <ul class="inner-list">
             <li>Assisted in conducting EEG experiments.</li>
             <li>Assisted in EEG sleep staging. </li>
-            <li>Assisted in data collection. </li>
         </ul>
     </li>
     <li>
