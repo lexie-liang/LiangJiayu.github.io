@@ -53,7 +53,7 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
     </li>
     <li>
         <strong>Effects of Tone Types and Bilingual Experiences on Forced-attention Dichotic Task in Cantonese-speaking Older Adults</strong><br>
-        <span class="date">[Present]</span>
+        <span class="date">[2024.09-2024.11]</span>
         <ul class="inner-list">
             <li>Recruited and conducted experiments with 20 Cantonese-speaking older adults.</li>
         </ul>
