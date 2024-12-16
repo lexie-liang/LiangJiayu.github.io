@@ -74,18 +74,17 @@ Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the 
             <li>Conducted comprehensive literature review.</li>
             <li id="melodicTraining2023">Developed and implemented a Melodic Height Identification Training program and associated assessments (identification and discrimination tests), utilizing JavaScript (<a href="https://www.jspsych.org/7.3/" target="_blank">jsPsych</a>).</li>
             <li>Recruited and conducted experiments with 30 participants, including 15 Korean and 15 Chinese older adults.</li>
-            <li>Employed <a href="https://sppas.org/" target="_blank">SPPAS</a> and <a href="https://montreal-forced-aligner.readthedocs.io/en/latest/" target="_blank">Montreal Forced Aligner</a> for automatic annotation of production data, and MATLAB (<a href="https://phonetics.ucla.edu/voicesauce/" target="_blank">VoiceSauce</a>) for automatic extraction of F0 values.</li>
+            <li>Employed <a href="https://montreal-forced-aligner.readthedocs.io/en/latest/" target="_blank">Montreal Forced Aligner</a> for automatic annotation of production data, and automatically extracted of F0 values.</li>
             <li>Analyzed participants' tone differentiability and hit rate to evaluate production performance and generated tone overlap plots.</li>
             <li>Transformed perception data (accuracy percentages) into rationalized arcsine units (RAUs) for statistical analysis.</li>
-            <li>Conducted Linear Mixed Effects (LME) analysis using R (<a href="https://cran.r-project.org/web/packages/lme4/index.html" target="_blank">lme4</a>) to examine the effects of melodic training on Cantonese level tones perception and production.</li>
+            <li>Performed statistical analysis</li>
         </ul>
     </li>
     <li>
         <strong>Perception-Production Links in Mandarin Speakers' English Vowels: A Behavioral and Eye-tracking Study</strong><br>
         <span class="date">[2023.07-2024.07]</span>
         <ul class="inner-list">
-            <li>Conducted thorough literature review.</li>
-            <li>Synthesized and manipulated experimental stimuli using MATLAB (<a href="https://ieeexplore.ieee.org/document/4518514" target="_blank">TANDEM-STRAIGHT</a>).</li>
+            <li>Conducted thorough literature review and synthesized experimental stimuli.</li>
             <li>Designed eye-tracking experiments with <a href="https://www.sr-research.com/experiment-builder/" target="_blank">Experiment Builder</a>.</li>
             <li>Recruited and conducted eye-tracking experiments with 60 college students.</li>
             <li>Employed automatic annotation for production data using <a href="https://sppas.org/" target="_blank">SPPAS</a> and <a href="http://darla.dartmouth.edu/index" target="_blank">DARLA</a>, and automatic extraction of F1 and F2 values in MATLAB (<a href="https://phonetics.ucla.edu/voicesauce/" target="_blank">VoiceSauce</a>).</li>
