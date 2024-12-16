@@ -1,5 +1,11 @@
 ---
 layout: homepage
+<style>
+  a {
+    color: blue; /* Changes link color to blue */
+  }
+</style>
+
 ---
 
 ## About Me
