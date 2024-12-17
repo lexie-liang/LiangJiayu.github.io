@@ -11,7 +11,7 @@ I'm a research assistant in the <a href="https://slablab.weebly.com/" target="_b
 
 **Relevant Courses**  
 English Phonetics (96), Phonetics and Brain Science (Excellent), Experimental Phonetics (92), Experimental Methods and 
-%the Application of Instruments in Phonetics (95), Cognitive Neuroscience Experiment (90), Corpus Linguistics (93), 
+the Application of Instruments in Phonetics (95), Cognitive Neuroscience Experiment (90), Corpus Linguistics (93), 
 %Python and Natural Language Processing (94)
 
 ## Research Interests
