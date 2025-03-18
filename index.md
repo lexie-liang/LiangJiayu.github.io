@@ -22,15 +22,15 @@ Python and Natural Language Processing (94)
 ## Publications & Presentations
 **Liang, J.**, Zhang, H., Ma, W., Ding, H.  Effect of Musical Aptitude on the Perception of English Vowels: An Eye-tracking Investigation among Native Mandarin Speakers. (Under Review)
 
-Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults. (Manuscript in preparation)
+Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults. (Manuscript in Preparation)
 
-**Liang, J.**, Zhang, H. (2024). Effects of Mandarin Speakers’ Musical Aptitude on the Perception of English Vowels: An Eye-tracking Study. In *The 15th International Conference in Evolutionary Linguistics (CIEL2024)*, Changsha, Hunan. (poster)
+**Liang, J.**, Zhang, H. (2024). Effects of Mandarin Speakers’ Musical Aptitude on the Perception of English Vowels: An Eye-tracking Study. In *The 15th International Conference in Evolutionary Linguistics (CIEL2024)*, Changsha, Hunan. (Poster Presentation)
 
-**Liang, J.**, Zhang, H. (2023). Perception-Production Links in Mandarin Speakers' English Vowels: A Behavioral and Eye-tracking Study. In *The 2nd National Symposium on Clinical Linguistics (NSCL2023)*, Jinan, Shandong. (oral presentation)
+**Liang, J.**, Zhang, H. (2023). Perception-Production Links in Mandarin Speakers' English Vowels: A Behavioral and Eye-tracking Study. In *The 2nd National Symposium on Clinical Linguistics (NSCL2023)*, Jinan, Shandong. (Oral Presentation)
 
-**Liang, J.**, Jia, B., Liu, J., Li, X., Zhang, H. (2023). Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers. In *The 14th International Conference in Evolutionary Linguistics (CIEL2023)*, Hong Kong. (poster)
+**Liang, J.**, Jia, B., Liu, J., Li, X., Zhang, H. (2023). Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers. In *The 14th International Conference in Evolutionary Linguistics (CIEL2023)*, Hong Kong. (Poster Presentation)
 
-**Liang, J.**, Jia, B., Liu, J., Li, X., Zhang, H. (2023). Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers. In *The 15th Phonetic Conference of China (PCC2023)*, Shenzhen, Guangdong. (oral presentation)
+**Liang, J.**, Jia, B., Liu, J., Li, X., Zhang, H. (2023). Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers. In *The 15th Phonetic Conference of China (PCC2023)*, Shenzhen, Guangdong. (Oral Presentation)
 
 
 
