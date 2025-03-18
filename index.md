@@ -16,13 +16,13 @@ Python and Natural Language Processing (94)
 
 ## Research Interests
 - Production and Perception of Non-native Languages
-- Cross-domain Transfer Effects between Music and Language Experience
+- Cross-domain Transfer Effects between Music and Language
 - Age-related Differences in Language Learning
 
 ## Publications & Presentations
 **Liang, J.**, Zhang, H., Ma, W., Ding, H.  Effect of Musical Aptitude on the Perception of English Vowels: An Eye-tracking Investigation among Native Mandarin Speakers. (Under Review)
 
-Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults. (Manuscript in Preparation)
+Zhang, H., **Liang, J**. (co-first author) Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults. (Manuscript in Preparation)
 
 **Liang, J.**, Zhang, H. (2024). Effects of Mandarin Speakers’ Musical Aptitude on the Perception of English Vowels: An Eye-tracking Study. In *The 15th International Conference in Evolutionary Linguistics (CIEL2024)*, Changsha, Hunan. (Poster Presentation)
 
