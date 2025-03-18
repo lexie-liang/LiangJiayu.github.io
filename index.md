@@ -20,7 +20,7 @@ Python and Natural Language Processing (94)
 - Age-related Differences in Language Learning
 
 ## Publications & Presentations
-**Liang, J.**, Zhang, H., Ma, W., Ding, H.  Effects of Mandarin Speakers’ Musical Aptitude on the Perception of English Vowels: An Eye-tracking Study. (Manuscript in preparation)
+**Liang, J.**, Zhang, H., Ma, W., Ding, H.  Effect of Musical Aptitude on the Perception of English Vowels: An Eye-tracking Investigation among Native Mandarin Speakers. (Under Review)
 
 Zhang, H., **Liang, J**. (co-first author). Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults. (Manuscript in preparation)
 
