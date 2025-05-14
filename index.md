@@ -40,7 +40,7 @@ Zhang, H., **Liang, J**. (co-first author) Benefits of Melodic Training on the P
 <ul class="research-list">
     <li>
         <strong>Adult Second-language Learners’ Consolidation of Cantonese Tones during Daytime Naps: the Role of Prior Knowledge</strong><br>
-        <span class="date">[Present]</span>
+        <span class="date">[2025.01-Present]</span>
         <ul class="inner-list">
             <li>Recruited and conducted experiments with 15 participants.</li>
             <li>Analyzed EEG and behavioral data.</li>
@@ -48,7 +48,7 @@ Zhang, H., **Liang, J**. (co-first author) Benefits of Melodic Training on the P
     </li>
     <li>
         <strong>Enhancing the Perception and Recognition of Spoken Words in a Second Language: A Cue-Weighting Approach</strong><br>
-        <span class="date">[Present]</span>
+        <span class="date">[2024.10-Present]</span>
         <ul class="inner-list">
             <li>Assisted in the setup of eye-tracking experiments.</li>
             <li>Recruited and conducted experiments with 60 participants.</li>
