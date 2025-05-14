@@ -4,7 +4,7 @@ layout: homepage
 ---
 
 ## About Me
-I'm a research assistant in the <a href="https://slab-lab.github.io/" target="_blank">Speech, Learning, and the Brain (SLaB) Lab</a> at the Hong Kong University of Science and Technology, working under the mentorship of Prof. <a href="https://sites.google.com/site/qinzhenquentin/" target="_blank">Zhen QIN</a>. Before joining the lab, I was supervised by Prof. <a href="https://www.researchgate.net/profile/Hao-Zhang-39" target="_blank">Hao ZHANG</a> for my undergraduate studies. I'm interested in experimental phonetics, second/foreign language acquisition, and psycholinguistics. Currently, I am mainly involved in an eye-tracking study examining L2 learners' perceptual learning and consolidation of English lexical stress.
+I'm a research assistant in the <a href="https://slab-lab.github.io/" target="_blank">Speech, Learning, and the Brain (SLaB) Lab</a> at the Hong Kong University of Science and Technology, working under the mentorship of Prof. <a href="https://sites.google.com/site/qinzhenquentin/" target="_blank">Quentin Zhen QIN</a>. Before joining the lab, I was supervised by Prof. <a href="https://www.researchgate.net/profile/Hao-Zhang-39" target="_blank">Hao ZHANG</a> for my undergraduate studies. I'm interested in experimental phonetics, second/foreign language acquisition, and psycholinguistics. Currently, I am mainly involved in an eye-tracking study examining L2 learners' perceptual learning and consolidation of English lexical stress.
 
 ## Education
 **BA in English** at Shandong University (Average Grade: 88.71/100)  [2020-2024]
@@ -20,7 +20,7 @@ Python and Natural Language Processing (94)
 - Age-related Differences in Language Learning
 
 ## Publications & Presentations
-**Liang, J.**, Zhang, H., Ma, W., Ding, H.  Effect of Musical Aptitude on the Perception of English Vowels: An Eye-tracking Investigation among Native Mandarin Speakers. (Under Review)
+**Liang, J.**, Zhang, H., Ma, W., Ding, H. Effect of Musical Aptitude on the Perception of English Vowels: An Eye-tracking Investigation among Native Mandarin Speakers. (Under Review)
 
 Zhang, H., **Liang, J**. (co-first author) Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults. (Manuscript in Preparation)
 
@@ -42,8 +42,8 @@ Zhang, H., **Liang, J**. (co-first author) Benefits of Melodic Training on the P
         <strong>Adult Second-language Learners’ Consolidation of Cantonese Tones during Daytime Naps: the Role of Prior Knowledge</strong><br>
         <span class="date">[Present]</span>
         <ul class="inner-list">
-            <li>Assisted in conducting EEG experiments.</li>
-            <li>Assisted in EEG sleep staging. </li>
+            <li>Recruited and conducted experiments with 15 participants.</li>
+            <li>Analyzed EEG and behavioral data.</li>
         </ul>
     </li>
     <li>
@@ -51,7 +51,7 @@ Zhang, H., **Liang, J**. (co-first author) Benefits of Melodic Training on the P
         <span class="date">[Present]</span>
         <ul class="inner-list">
             <li>Assisted in the setup of eye-tracking experiments.</li>
-            <li>Recruited and conducted experiments with 20 participants.</li>
+            <li>Recruited and conducted experiments with 60 participants.</li>
         </ul>
     </li>
     <li>
