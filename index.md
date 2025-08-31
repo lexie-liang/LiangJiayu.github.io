@@ -115,7 +115,7 @@ Zhang, H., **Liang, J**. (co-first author) Benefits of melodic training on the p
 
 
 ## Service
-- Research assistant at Hong Kong University of Science and Technology [2024-2025]
+- Research assistant at Hong Kong University of Science and Technology [2024-present]
 - Research assistant at Shandong University [2023-2024]
 
 
