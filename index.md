@@ -20,19 +20,19 @@ Python and Natural Language Processing (94)
 - Age-related Differences in Language Learning
 
 ## Publications & Presentations
-**Liang, J.**, Zhang, H., Ma, W., Ding, H. (in press). Effect of Musical Aptitude on the Perception of English Vowels: An Eye-tracking Investigation among Native Mandarin Speakers. <em>Journal of Speech, Language, and Hearing Research</em>. <a href="https://doi.org/10.1044/2025_JSLHR-24-00916" target="_blank">https://doi.org/10.1044/2025_JSLHR-24-00916</a>
+**Liang, J.**, Zhang, H., Ma, W., Ding, H. (in press). Effect of musical aptitude on the perception of English vowels: An eye-tracking investigation among native Mandarin speakers. <em>Journal of Speech, Language, and Hearing Research</em>. <a href="https://doi.org/10.1044/2025_JSLHR-24-00916" target="_blank">https://doi.org/10.1044/2025_JSLHR-24-00916</a>
 
-Wang, Y., **Liang, J.**, & Qin, Z. (2025). The Role of Bilingual Experiences on Attentional Control in the Dichotic Listening: Evidence from Younger and Older Cantonese-English Bilinguals. <em>The 15th International Symposium on Bilingualism (ISB15)</em>, San Sebastian, Spain. (Oral Presentation)
+Wang, Y., **Liang, J.**, & Qin, Z. (2025). The role of bilingual experiences on attentional control in the dichotic listening: Evidence from younger and older Cantonese-English bilinguals. <em>The 15th International Symposium on Bilingualism (ISB15)</em>, San Sebastian, Spain. (Oral Presentation)
 
-Zhang, H., **Liang, J**. (co-first author) Benefits of Melodic Training on the Production and Perception of Cantonese Level Tones by Korean and Chinese Older Adults. (Manuscript in Preparation)
+Zhang, H., **Liang, J**. (co-first author) Benefits of melodic training on the production and perception of Cantonese level tones by Korean and Chinese older adults. (Manuscript in Preparation)
 
-**Liang, J.**, Zhang, H. (2024). Effects of Mandarin Speakers’ Musical Aptitude on the Perception of English Vowels: An Eye-tracking Study. In *The 15th International Conference in Evolutionary Linguistics (CIEL2024)*, Changsha, Hunan. (Poster Presentation)
+**Liang, J.**, Zhang, H. (2024). Effects of Mandarin speakers’ musical aptitude on the perception of English vowels: An eye-tracking study. In *The 15th International Conference in Evolutionary Linguistics (CIEL2024)*, Changsha, Hunan. (Poster Presentation)
 
-**Liang, J.**, Zhang, H. (2023). Perception-Production Links in Mandarin Speakers' English Vowels: A Behavioral and Eye-tracking Study. In *The 2nd National Symposium on Clinical Linguistics (NSCL2023)*, Jinan, Shandong. (Oral Presentation)
+**Liang, J.**, Zhang, H. (2023). Perception-production links in Mandarin speakers' English vowels: A behavioral and eye-tracking study. In *The 2nd National Symposium on Clinical Linguistics (NSCL2023)*, Jinan, Shandong. (Oral Presentation)
 
-**Liang, J.**, Jia, B., Liu, J., Li, X., Zhang, H. (2023). Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers. In *The 14th International Conference in Evolutionary Linguistics (CIEL2023)*, Hong Kong. (Poster Presentation)
+**Liang, J.**, Jia, B., Liu, J., Li, X., Zhang, H. (2023). Music experience enhances categorical perception of English vowels in Mandarin speakers. In *The 14th International Conference in Evolutionary Linguistics (CIEL2023)*, Hong Kong. (Poster Presentation)
 
-**Liang, J.**, Jia, B., Liu, J., Li, X., Zhang, H. (2023). Music Experience Enhances Categorical Perception of English Vowels in Mandarin Speakers. In *The 15th Phonetic Conference of China (PCC2023)*, Shenzhen, Guangdong. (Oral Presentation)
+**Liang, J.**, Jia, B., Liu, J., Li, X., Zhang, H. (2023). Music experience enhances categorical perception of English vowels in Mandarin speakers. In *The 15th Phonetic Conference of China (PCC2023)*, Shenzhen, Guangdong. (Oral Presentation)
 
 
 
