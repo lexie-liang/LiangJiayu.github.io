@@ -20,7 +20,7 @@ Python and Natural Language Processing (94)
 - Age-related Differences in Language Learning
 
 ## Publications & Presentations
-**Liang, J.**, Zhang, H., Ma, W., Ding, H. (in press). Effect of musical aptitude on the perception of English vowels: An eye-tracking investigation among native Mandarin speakers. <em>Journal of Speech, Language, and Hearing Research</em>. <a href="https://doi.org/10.1044/2025_JSLHR-24-00916" target="_blank">https://doi.org/10.1044/2025_JSLHR-24-00916</a> [<a href="assets/files/JYL.pdf" target="_blank">PDF</a>]
+**Liang, J.**, Zhang, H., Ma, W., Ding, H. (2025). Effect of musical aptitude on the perception of English vowels: An eye-tracking investigation among native Mandarin speakers. <em>Journal of Speech, Language, and Hearing Research</em>, 68(10), 5021–5038. <a href="https://doi.org/10.1044/2025_JSLHR-24-00916" target="_blank">https://doi.org/10.1044/2025_JSLHR-24-00916</a> [<a href="assets/files/JYL.pdf" target="_blank">PDF</a>]
 
 Wang, Y., **Liang, J.**, & Qin, Z. (2025). The role of bilingual experiences on attentional control in the dichotic listening: Evidence from younger and older Cantonese-English bilinguals. In <em>The 15th International Symposium on Bilingualism (ISB15)</em>, San Sebastian, Spain. (Oral Presentation)
 
