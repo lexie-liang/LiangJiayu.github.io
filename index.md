@@ -20,19 +20,21 @@ Python and Natural Language Processing (94)
 - Age-related Differences in Language Learning
 
 ## Publications & Presentations
-**Liang, J.**, Zhang, H., Ma, W., Ding, H. (2025). Effect of musical aptitude on the perception of English vowels: An eye-tracking investigation among native Mandarin speakers. <em>Journal of Speech, Language, and Hearing Research</em>, 68(10), 5021–5038. <a href="https://doi.org/10.1044/2025_JSLHR-24-00916" target="_blank">https://doi.org/10.1044/2025_JSLHR-24-00916</a> [<a href="assets/files/JYL.pdf" target="_blank">PDF</a>]
-
-Wang, Y., **Liang, J.**, & Qin, Z. (2025). The role of bilingual experiences on attentional control in the dichotic listening: Evidence from younger and older Cantonese-English bilinguals. In <em>The 15th International Symposium on Bilingualism (ISB15)</em>, San Sebastian, Spain. (Oral Presentation)
-
 Zhang, H., **Liang, J**. (co-first author) Benefits of melodic training on the production and perception of Cantonese level tones by Korean and Chinese older adults. (Manuscript in Preparation)
 
-**Liang, J.**, Zhang, H. (2024). Effects of Mandarin speakers’ musical aptitude on the perception of English vowels: An eye-tracking study. In *The 15th International Conference in Evolutionary Linguistics (CIEL2024)*, Changsha, Hunan. (Poster Presentation)
+​Tremblay, A., Broersma, M., Cho, T., Kim, H., Qin, Z., **Liang, J**., Nuñez, A., &Terrazas, F. (2025). Cross-linguistic transfer in lexical stress perception: A cue-weighting typology. <em>The 6th joint meeting of the Acoustical Society of America and Acoustical Society of Japan</em>, Honolulu, HI. Poster Presentation.
 
-**Liang, J.**, Zhang, H. (2023). Perception-production links in Mandarin speakers' English vowels: A behavioral and eye-tracking study. In *The 2nd National Symposium on Clinical Linguistics (NSCL2023)*, Jinan, Shandong. (Oral Presentation)
+**Liang, J.**, Zhang, H., Ma, W., Ding, H. (2025). Effect of musical aptitude on the perception of English vowels: An eye-tracking investigation among native Mandarin speakers. <em>Journal of Speech, Language, and Hearing Research</em>, 68(10), 5021–5038. <a href="https://doi.org/10.1044/2025_JSLHR-24-00916" target="_blank">https://doi.org/10.1044/2025_JSLHR-24-00916</a> [<a href="assets/files/JYL.pdf" target="_blank">PDF</a>]
 
-**Liang, J.**, Jia, B., Liu, J., Li, X., Zhang, H. (2023). Music experience enhances categorical perception of English vowels in Mandarin speakers. In *The 14th International Conference in Evolutionary Linguistics (CIEL2023)*, Hong Kong. (Poster Presentation)
+Wang, Y., **Liang, J.**, & Qin, Z. (2025). The role of bilingual experiences on attentional control in the dichotic listening: Evidence from younger and older Cantonese-English bilinguals. <em>The 15th International Symposium on Bilingualism (ISB15)</em>, San Sebastian, Spain. Oral Presentation
 
-**Liang, J.**, Jia, B., Liu, J., Li, X., Zhang, H. (2023). Music experience enhances categorical perception of English vowels in Mandarin speakers. In *The 15th Phonetic Conference of China (PCC2023)*, Shenzhen, Guangdong. (Oral Presentation)
+**Liang, J.**, Zhang, H. (2024). Effects of Mandarin speakers’ musical aptitude on the perception of English vowels: An eye-tracking study. *The 15th International Conference in Evolutionary Linguistics (CIEL2024)*, Changsha, Hunan. Poster Presentation
+
+**Liang, J.**, Zhang, H. (2023). Perception-production links in Mandarin speakers' English vowels: A behavioral and eye-tracking study. *The 2nd National Symposium on Clinical Linguistics (NSCL2023)*, Jinan, Shandong. Oral Presentation
+
+**Liang, J.**, Jia, B., Liu, J., Li, X., Zhang, H. (2023). Music experience enhances categorical perception of English vowels in Mandarin speakers. *The 14th International Conference in Evolutionary Linguistics (CIEL2023)*, Hong Kong. Poster Presentation
+
+**Liang, J.**, Jia, B., Liu, J., Li, X., Zhang, H. (2023). Music experience enhances categorical perception of English vowels in Mandarin speakers. *The 15th Phonetic Conference of China (PCC2023)*, Shenzhen, Guangdong. Oral Presentation
 
 
 
