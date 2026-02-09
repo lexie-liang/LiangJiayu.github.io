@@ -6,35 +6,74 @@ layout: homepage
 ## About Me
 I'm a research assistant in the <a href="https://slab-lab.github.io/" target="_blank">Speech, Learning, and the Brain (SLaB) Lab</a> at the Hong Kong University of Science and Technology, working under the mentorship of Prof. <a href="https://sites.google.com/site/qinzhenquentin/" target="_blank">Quentin Zhen QIN</a>. Before joining the lab, I was supervised by Prof. <a href="https://www.researchgate.net/profile/Hao-Zhang-39" target="_blank">Hao ZHANG</a> for my undergraduate studies. I'm interested in experimental phonetics, second/foreign language acquisition, and psycholinguistics.
 
-## Education
-**BA in English** at Shandong University (Average Grade: 88.71/100)  [2020-2024]
-
-**Relevant Courses**  
-English Phonetics (96), Phonetics and Brain Science (Excellent), Experimental Phonetics (92), Experimental Methods and 
-the Application of Instruments in Phonetics (95), Cognitive Neuroscience Experiment (90), Corpus Linguistics (93), 
-Python and Natural Language Processing (94)
-
 ## Research Interests
 - Production and Perception of Non-native Languages
 - Cross-domain Transfer Effects between Music and Language
 - Age-related Differences in Language Learning
 
-## Publications & Presentations
-Zhang, H., **Liang, J**. (co-first author) Benefits of melodic training on the production and perception of Cantonese level tones by Korean and Chinese older adults. (Manuscript in Preparation)
 
-​Tremblay, A., Broersma, M., Cho, T., Kim, H., Qin, Z., **Liang, J**., Nuñez, A., &Terrazas, F. (2025). Cross-linguistic transfer in lexical stress perception: A cue-weighting typology. <em>The 6th joint meeting of the Acoustical Society of America and Acoustical Society of Japan</em>, Honolulu, HI. Poster Presentation.
+## Education
+**BA in English** at Shandong University (Average Grade: 88.71/100)  [2020-2024]
+
+**GPA in discipline-related coursework**: 93.25/100
+**Selected coursework**  
+GPA in discipline-related coursework: 93.25/100
+English Phonetics (96), Phonetics and Brain Science (Excellent), Experimental Phonetics (92), Experimental Methods and 
+the Application of Instruments in Phonetics (95), Cognitive Neuroscience Experiment (90), Corpus Linguistics (93), 
+Python and Natural Language Processing (94)
+
+
+## Appointment
+
+<ul class="research-list">
+  <li>
+    <strong>Research Assistant</strong><br>
+    <span class="date">[Aug. 2024–Present]</span><br>
+    Hong Kong University of Science and Technology<br>
+    Supervisor: Dr. Quentin Zhen Qin
+  </li>
+
+  <li>
+    <strong>Research Assistant</strong><br>
+    <span class="date">[Jun. 2023–Jun. 2024]</span><br>
+    Shandong University<br>
+    Supervisor: Dr. Hao Zhang
+  </li>
+</ul>
+
+
+
+## Publications & Presentations
+
+### Journal Articles
+
+Zhang, H., **Liang, J.** *(co-first author).* Benefits of melodic training on the production and perception of Cantonese level tones by Korean and Chinese older adults. *(Manuscript in preparation).*
+
+Tremblay, A., Broersma, M., Cho, T., Qin, Q. Z., Kim, H., **Liang, J.** (preprint). Towards an attentional theory of second-language speech perception: Evidence from cue ecology. *PsyArXiv preprint.* <a href="https://osf.io/preprints/psyarxiv/4y3rm_v1" target="_blank">https://osf.io/preprints/psyarxiv/4y3rm_v1</a>
+
+Tremblay, A., Broersma, M., Cho, T., Qin, Q. Z., Kim, H., **Liang, J.** (submitted). Towards an attentional theory of second-language speech perception: Evidence from cue ecology. *Cognition.*
 
 **Liang, J.**, Zhang, H., Ma, W., Ding, H. (2025). Effect of musical aptitude on the perception of English vowels: An eye-tracking investigation among native Mandarin speakers. <em>Journal of Speech, Language, and Hearing Research</em>, 68(10), 5021–5038. <a href="https://doi.org/10.1044/2025_JSLHR-24-00916" target="_blank">https://doi.org/10.1044/2025_JSLHR-24-00916</a> [<a href="assets/files/JYL.pdf" target="_blank">PDF</a>]
 
-Wang, Y., **Liang, J.**, & Qin, Z. (2025). The role of bilingual experiences on attentional control in the dichotic listening: Evidence from younger and older Cantonese-English bilinguals. <em>The 15th International Symposium on Bilingualism (ISB15)</em>, San Sebastian, Spain. Oral Presentation
+### Conference Presentations
 
-**Liang, J.**, Zhang, H. (2024). Effects of Mandarin speakers’ musical aptitude on the perception of English vowels: An eye-tracking study. *The 15th International Conference in Evolutionary Linguistics (CIEL2024)*, Changsha, Hunan. Poster Presentation
+**Liang, J.**, Lai, S., Zhang, C., & Qin, Q. Z. (submitted). Daytime naps selectively consolidate Cantonese tones in non-tonal learners. <em>The Hanyang International Symposium on Phonetics and Cognitive Sciences of Language (HISPhonCog 2026)</em>, Seoul, South Korea.
 
-**Liang, J.**, Zhang, H. (2023). Perception-production links in Mandarin speakers' English vowels: A behavioral and eye-tracking study. *The 2nd National Symposium on Clinical Linguistics (NSCL2023)*, Jinan, Shandong. Oral Presentation
+Wang, Y., **Liang, J.**, Myachykov, A., & Qin, Q. Z. (submitted). Multilingual experience predicts attentional control in dichotic listening among older adults: The mediating role of socioeconomic status. <em>The Hanyang International Symposium on Phonetics and Cognitive Sciences of Language (HISPhonCog 2026)</em>, Seoul, South Korea.
 
-**Liang, J.**, Jia, B., Liu, J., Li, X., Zhang, H. (2023). Music experience enhances categorical perception of English vowels in Mandarin speakers. *The 14th International Conference in Evolutionary Linguistics (CIEL2023)*, Hong Kong. Poster Presentation
+Tremblay, A., Broersma, M., Cho, T., Kim, H., Qin, Q. Z., **Liang, J.**, Nuñez, A., & Terrazas, F. (2025). Cross-linguistic transfer in lexical stress perception: A cue-weighting typology. <em>The 6th joint meeting of the Acoustical Society of America and Acoustical Society of Japan</em>, Honolulu, HI. Poster Presentation.
 
-**Liang, J.**, Jia, B., Liu, J., Li, X., Zhang, H. (2023). Music experience enhances categorical perception of English vowels in Mandarin speakers. *The 15th Phonetic Conference of China (PCC2023)*, Shenzhen, Guangdong. Oral Presentation
+Wang, Y., **Liang, J.**, & Qin, Q. Z. (2025). The role of bilingual experiences on attentional control in the dichotic listening: Evidence from younger and older Cantonese–English bilinguals. <em>The 15th International Symposium on Bilingualism (ISB15)</em>, San Sebastian, Spain. Oral Presentation.
+
+**Liang, J.**, & Zhang, H. (2024). Effect of Mandarin speakers' musical aptitude on the perception of English vowels: An eye-tracking study. <em>CogSci 2024 Hong Kong Meetup</em>, Hong Kong. Poster Presentation.
+
+**Liang, J.**, & Zhang, H. (2024). Effects of Mandarin speakers’ musical aptitude on the perception of English vowels: An eye-tracking study. <em>The 15th International Conference in Evolutionary Linguistics (CIEL 2024)</em>, Changsha, Hunan. Poster Presentation.
+
+**Liang, J.**, & Zhang, H. (2023). Perception-production links in Mandarin speakers’ English vowels: A behavioral and eye-tracking study. <em>The 2nd National Symposium on Clinical Linguistics (NSCL2023)</em>, Jinan, Shandong. Oral Presentation.
+
+**Liang, J.**, Jia, B., Liu, J., Li, X., Zhang, H. (2023). Music experience enhances categorical perception of English vowels in Mandarin speakers. <em>The 14th International Conference in Evolutionary Linguistics (CIEL 2023)</em>, Hong Kong. Poster Presentation.
+
+**Liang, J.**, Jia, B., Liu, J., Li, X., Zhang, H. (2023). Music experience enhances categorical perception of English vowels in Mandarin speakers. <em>The 15th Phonetic Conference of China (PCC 2023)</em>, Shenzhen, Guangdong. Oral Presentation.
 
 
 
