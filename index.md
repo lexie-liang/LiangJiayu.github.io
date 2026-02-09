@@ -17,7 +17,6 @@ I'm a research assistant in the <a href="https://slab-lab.github.io/" target="_b
 
 **GPA in discipline-related coursework**: 93.25/100<br>
 **Selected coursework**  
-GPA in discipline-related coursework: 93.25/100
 English Phonetics (96), Phonetics and Brain Science (Excellent), Experimental Phonetics (92), Experimental Methods and 
 the Application of Instruments in Phonetics (95), Cognitive Neuroscience Experiment (90), Corpus Linguistics (93), 
 Python and Natural Language Processing (94)
