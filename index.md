@@ -81,7 +81,7 @@ Wang, Y., **Liang, J.**, & Qin, Q. Z. (2025). The role of bilingual experiences 
   <li>
     <strong>The effect of targeted melodic-speech training on Mandarin-speaking L2 learners’ perception of Cantonese level tones: Evidence from behavioral and neural tasks</strong><br>
     <span class="date">[Jun. 2025–Present]</span><br>
-    Leading project (Supervisor: Dr. Quentin Zhen Qin)
+    <u>Leading project (Supervisor: Dr. Quentin Zhen Qin)</u>
     <ul class="inner-list">
       <li><strong>Conceptualization:</strong> Motivated the project through an in-depth literature review and identified key theoretical and methodological gaps.</li>
       <li><strong>Design:</strong> Built and deployed three training conditions in Gorilla (instructions, randomization, data export). Designed an EEG oddball paradigm and behavioral tasks in E-Prime (ABX discrimination task and a Sequence Recall Task), with triggers via StimTracker interfacing with Curry.</li>
@@ -93,7 +93,7 @@ Wang, Y., **Liang, J.**, & Qin, Q. Z. (2025). The role of bilingual experiences 
   <li>
     <strong>Adult second-language learners’ consolidation of Cantonese tones during daytime naps: The role of prior knowledge</strong><br>
     <span class="date">[Jan. 2025–Present]</span><br>
-    Assisted project (Supervisor: Dr. Quentin Zhen Qin)
+    <u>Assisted project (Supervisor: Dr. Quentin Zhen Qin)</u>
     <ul class="inner-list">
       <li><strong>Project administration:</strong> Supported recruitment for a hard-to-reach population by distributing study posters on campus and assisting with online outreach (e.g., Facebook) to enroll non-tonal L1 English-speaking South Asian participants in Hong Kong.</li>
       <li><strong>Data collection:</strong> Ran sessions for 50 participants. Conducted in-lab EEG setup and recording preparation for nap sessions (cap fitting, gel injection, impedance/signal checks).</li>
@@ -106,7 +106,7 @@ Wang, Y., **Liang, J.**, & Qin, Q. Z. (2025). The role of bilingual experiences 
   <li>
     <strong>Enhancing the perception and recognition of spoken words in a second language: A cue-weighting approach</strong><br>
     <span class="date">[Oct. 2024–Present]</span><br>
-    Assisted project (Supervisor: Dr. Quentin Zhen Qin)
+    <u>Assisted project (Supervisor: Dr. Quentin Zhen Qin)</u>
     <ul class="inner-list">
       <li><strong>Project administration:</strong> Assisted with setup and testing of eye-tracking experiments (SR Research Experiment Builder and Data Viewer), including calibration/validation and output checks.</li>
       <li><strong>Data collection:</strong> Recruited and tested 60 participants; monitored completion/quality checks for a Gorilla-based online training program.</li>
@@ -118,7 +118,7 @@ Wang, Y., **Liang, J.**, & Qin, Q. Z. (2025). The role of bilingual experiences 
   <li>
     <strong>The role of bilingual experiences on attentional control in dichotic listening: Evidence from older Cantonese–English bilinguals</strong><br>
     <span class="date">[Sep. 2024–Nov. 2024]</span><br>
-    Assisted project (Supervisor: Dr. Quentin Zhen Qin)
+    <u>Assisted project (Supervisor: Dr. Quentin Zhen Qin)</u>
     <ul class="inner-list">
       <li><strong>Data collection:</strong> Recruited and tested 30 Cantonese-speaking older adults; coordinated lab sessions and maintained standardized procedures.</li>
       <li><strong>Dissemination:</strong> Provided feedback on the poster and preliminary data report; co-authored a poster presented at ISB15 and an abstract submitted to HISPhonCog 2026.</li>
@@ -128,7 +128,7 @@ Wang, Y., **Liang, J.**, & Qin, Q. Z. (2025). The role of bilingual experiences 
   <li>
     <strong>Benefits of melodic training on the production and perception of Cantonese level tones by Korean and Chinese older adults</strong><br>
     <span class="date">[Nov. 2023–Present]</span><br>
-    Leading project (Supervisor: Dr. Hao Zhang)
+    <u>Leading project (Supervisor: Dr. Hao Zhang)</u>
     <ul class="inner-list">
       <li><strong>Conceptualization:</strong> Developed the training rationale and outcome measures based on a comprehensive literature review.</li>
       <li><strong>Design:</strong> Implemented a melodic height identification training program in JavaScript (<a href="https://www.jspsych.org/7.3/" target="_blank">jsPsych</a>) with tone identification/discrimination assessments. Implemented SpeechRecorder for production assessments.</li>
@@ -141,7 +141,7 @@ Wang, Y., **Liang, J.**, & Qin, Q. Z. (2025). The role of bilingual experiences 
   <li>
     <strong>Perception–production links in Mandarin speakers’ English vowels: A behavioral and eye-tracking study</strong><br>
     <span class="date">[Jul. 2023–Jul. 2024]</span><br>
-    Undergraduate thesis (Supervisor: Dr. Hao Zhang)
+    <u>Undergraduate thesis (Supervisor: Dr. Hao Zhang)</u>
     <ul class="inner-list">
       <li><strong>Conceptualization:</strong> Conducted a comprehensive literature review; led end-to-end study planning and execution, including protocol development and timeline management.</li>
       <li><strong>Design:</strong> Designed eye-tracking experiments in SR Research Experiment Builder and developed perception/production stimuli in MATLAB (TANDEM-STRAIGHT); verified task logic and output formats.</li>
@@ -154,7 +154,7 @@ Wang, Y., **Liang, J.**, & Qin, Q. Z. (2025). The role of bilingual experiences 
   <li>
     <strong>Music experience enhances categorical perception of English vowels in Mandarin speakers</strong><br>
     <span class="date">[Mar. 2023–Jun. 2023]</span><br>
-    Leading project (Supervisor: Dr. Hao Zhang)
+    <u>Leading project (Supervisor: Dr. Hao Zhang)</u>
     <ul class="inner-list">
       <li><strong>Conceptualization:</strong> Led project conceptualization and developed the study motivation.</li>
       <li><strong>Project administration:</strong> Coordinated team workflow; assigned tasks based on members’ strengths and provided guidance throughout.</li>
@@ -171,30 +171,17 @@ Wang, Y., **Liang, J.**, & Qin, Q. Z. (2025). The role of bilingual experiences 
 
 
 
-## Service
-- Research assistant at Hong Kong University of Science and Technology [2024-present]
-- Research assistant at Shandong University [2023-2024]
 
+## Teaching
+- Shandong–Kashgar Public Welfare Online Teaching Program — Volunteer English Tutor (Primary School English; 40 hours) [2022]  
+- New Oriental Education — English Teaching Assistant (Junior Secondary English; 100 hours) [2021]
 
-## Awards
-- College Students' Innovative and Entrepreneurial Training Program Funding Supported by Shandong University [2022]
-- The Third-Class Undergraduate Academic Scholarship [2021]
-
-
-
-
-
-
-
-
-
-
-
-
+## Honours and Awards
+- College Students’ Innovative and Entrepreneurial Training Program Funding — Shandong University (award rate: ~30%) [2023]
+- Third-Class Undergraduate Academic Scholarship — Shandong University (award rate: ~15%) [2021]
 
 ## Skills
-- Programming: Python, R, JavaScript and MATLAB
-- Language proficiency: Mandarin (native), Cantonese (native) and English (IELTS score: 8.0)
-
-
-
+- Phonetics: Praat; SpeechRecorder; VoiceSauce  
+- Experimental design: E-Prime and PsychoPy (behavioral); Experiment Builder and Data Viewer (eye-tracking); StimTracker (EEG)  
+- Programming & analysis: Python (YASA); R (ggplot2, lme4, eyetrackingR); JavaScript (jsPsych); MATLAB (EEGLAB, ERPLAB)  
+- Language proficiency: Mandarin (native), Cantonese (native), English (IELTS 7.5)
