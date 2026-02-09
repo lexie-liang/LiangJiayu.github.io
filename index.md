@@ -77,7 +77,7 @@ Wang, Y., **Liang, J.**, & Qin, Q. Z. (2025). The role of bilingual experiences 
   <li>
     <strong>The effect of targeted melodic-speech training on Mandarin-speaking L2 learners’ perception of Cantonese level tones: Evidence from behavioral and neural tasks</strong><br>
     <span class="date">[Jun. 2025–Present]</span><br>
-    <u>Leading project (Supervisor: Dr. Quentin Zhen Qin)</u>
+    <u>Leading project (Supervisor: Dr. Quentin Zhen QIN)</u>
     <ul class="inner-list">
       <li><strong>Conceptualization:</strong> Motivated the project through an in-depth literature review and identified key theoretical and methodological gaps.</li>
       <li><strong>Design:</strong> Built and deployed three training conditions in <a href="https://gorilla.sc/" target="_blank">Gorilla</a> (instructions, randomization, data export). Designed an EEG oddball paradigm and behavioral tasks in <a href="https://pstnet.com/products/e-prime/" target="_blank">E-Prime</a> (ABX discrimination task and a Sequence Recall Task), with triggers via <a href="https://cedrus.com/stimtracker/index.htm" target="_blank">StimTracker</a> interfacing with <a href="https://compumedicsneuroscan.com/products/curry/" target="_blank">CURRY</a>.</li>
@@ -89,7 +89,7 @@ Wang, Y., **Liang, J.**, & Qin, Q. Z. (2025). The role of bilingual experiences 
   <li>
     <strong>Adult second-language learners’ consolidation of Cantonese tones during daytime naps: The role of prior knowledge</strong><br>
     <span class="date">[Jan. 2025–Present]</span><br>
-    <u>Assisted project (Supervisor: Dr. Quentin Zhen Qin)</u>
+    <u>Assisted project (Supervisor: Dr. Quentin Zhen QIN)</u>
     <ul class="inner-list">
       <li><strong>Project administration:</strong> Supported recruitment for a hard-to-reach population by distributing study posters on campus and assisting with online outreach (e.g., Facebook) to enroll non-tonal L1 English-speaking South Asian participants in Hong Kong.</li>
       <li><strong>Data collection:</strong> Ran sessions for 50 participants. Conducted in-lab EEG setup and recording preparation for nap sessions (cap fitting, gel injection, impedance/signal checks).</li>
@@ -102,7 +102,7 @@ Wang, Y., **Liang, J.**, & Qin, Q. Z. (2025). The role of bilingual experiences 
   <li>
     <strong>Enhancing the perception and recognition of spoken words in a second language: A cue-weighting approach</strong><br>
     <span class="date">[Oct. 2024–Present]</span><br>
-    <u>Assisted project (Supervisor: Dr. Quentin Zhen Qin)</u>
+    <u>Assisted project (Supervisor: Dr. Quentin Zhen QIN)</u>
     <ul class="inner-list">
       <li><strong>Project administration:</strong> Assisted with setup and testing of eye-tracking experiments (<a href="https://www.sr-research.com/experiment-builder/" target="_blank">SR Research Experiment Builder</a> and <a href="https://www.sr-research.com/data-viewer/" target="_blank">Data Viewer</a>), including calibration/validation and output checks.</li>
       <li><strong>Data collection:</strong> Recruited and tested 60 participants; monitored completion/quality checks for a Gorilla-based online training program.</li>
@@ -114,7 +114,7 @@ Wang, Y., **Liang, J.**, & Qin, Q. Z. (2025). The role of bilingual experiences 
   <li>
     <strong>The role of bilingual experiences on attentional control in dichotic listening: Evidence from older Cantonese–English bilinguals</strong><br>
     <span class="date">[Sep. 2024–Nov. 2024]</span><br>
-    <u>Assisted project (Supervisor: Dr. Quentin Zhen Qin)</u>
+    <u>Assisted project (Supervisor: Dr. Quentin Zhen QIN)</u>
     <ul class="inner-list">
       <li><strong>Data collection:</strong> Recruited and tested 30 Cantonese-speaking older adults; coordinated lab sessions and maintained standardized procedures.</li>
       <li><strong>Dissemination:</strong> Provided feedback on the poster and preliminary data report; co-authored a poster presented at ISB15 and an abstract submitted to HISPhonCog 2026.</li>
@@ -124,7 +124,7 @@ Wang, Y., **Liang, J.**, & Qin, Q. Z. (2025). The role of bilingual experiences 
   <li>
     <strong>Benefits of melodic training on the production and perception of Cantonese level tones by Korean and Chinese older adults</strong><br>
     <span class="date">[Nov. 2023–Present]</span><br>
-    <u>Leading project (Supervisor: Dr. Hao Zhang)</u>
+    <u>Leading project (Supervisor: Dr. Hao ZHANG)</u>
     <ul class="inner-list">
       <li><strong>Conceptualization:</strong> Developed the training rationale and outcome measures based on a comprehensive literature review.</li>
       <li><strong>Design:</strong> Implemented a melodic height identification training program in JavaScript (<a href="https://www.jspsych.org/7.3/" target="_blank">jsPsych</a>) with tone identification/discrimination assessments. Implemented <a href="https://www.bas.uni-muenchen.de/Bas/software/speechrecorder/" target="_blank">SpeechRecorder</a> for production assessments.</li>
@@ -137,7 +137,7 @@ Wang, Y., **Liang, J.**, & Qin, Q. Z. (2025). The role of bilingual experiences 
   <li>
     <strong>Perception–production links in Mandarin speakers’ English vowels: A behavioral and eye-tracking study</strong><br>
     <span class="date">[Jul. 2023–Jul. 2024]</span><br>
-    <u>Undergraduate thesis (Supervisor: Dr. Hao Zhang)</u>
+    <u>Undergraduate thesis (Supervisor: Dr. Hao ZHANG)</u>
     <ul class="inner-list">
       <li><strong>Conceptualization:</strong> Conducted a comprehensive literature review; led end-to-end study planning and execution, including protocol development and timeline management.</li>
       <li><strong>Design:</strong> Designed eye-tracking experiments in SR Research Experiment Builder and developed perception/production stimuli in MATLAB (<a href="https://ieeexplore.ieee.org/document/4518514" target="_blank">TANDEM-STRAIGHT</a>); verified task logic and output formats.</li>
@@ -150,7 +150,7 @@ Wang, Y., **Liang, J.**, & Qin, Q. Z. (2025). The role of bilingual experiences 
   <li>
     <strong>Music experience enhances categorical perception of English vowels in Mandarin speakers</strong><br>
     <span class="date">[Mar. 2023–Jun. 2023]</span><br>
-    <u>Leading project (Supervisor: Dr. Hao Zhang)</u>
+    <u>Leading project (Supervisor: Dr. Hao ZHANG)</u>
     <ul class="inner-list">
       <li><strong>Conceptualization:</strong> Led project conceptualization and developed the study motivation.</li>
       <li><strong>Project administration:</strong> Coordinated team workflow; assigned tasks based on members’ strengths and provided guidance throughout.</li>
