@@ -25,15 +25,13 @@ Python and Natural Language Processing (94)
 
 <ul class="research-list">
   <li>
-    <strong>Research Assistant</strong><br>
-    <span class="date">[Aug. 2024–Present]</span><br>
+    <strong>Research Assistant</strong> <span class="date">[Aug. 2024–Present]</span><br>
     Hong Kong University of Science and Technology<br>
     Supervisor: Dr. Quentin Zhen Qin
   </li>
 
   <li>
-    <strong>Research Assistant</strong><br>
-    <span class="date">[Jun. 2023–Jun. 2024]</span><br>
+    <strong>Research Assistant</strong> <span class="date">[Jun. 2023–Jun. 2024]</span><br>
     Shandong University<br>
     Supervisor: Dr. Hao Zhang
   </li>
