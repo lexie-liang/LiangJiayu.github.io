@@ -15,7 +15,7 @@ I'm a research assistant in the <a href="https://slab-lab.github.io/" target="_b
 ## Education
 **BA in English** at Shandong University (Average Grade: 88.71/100)  [2020-2024]
 
-**GPA in discipline-related coursework**: 93.25/100
+**GPA in discipline-related coursework**: 93.25/100<br>
 **Selected coursework**  
 GPA in discipline-related coursework: 93.25/100
 English Phonetics (96), Phonetics and Brain Science (Excellent), Experimental Phonetics (92), Experimental Methods and 
