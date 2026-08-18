@@ -52,9 +52,9 @@ Tremblay, A., Broersma, M., Cho, T., Qin, Q. Z., Kim, H., & **Liang, J.** (2026)
 
 ### Conference Presentations
 
-**Liang, J.**, Lai, S., Zhang, C., & Qin, Q. Z. (submitted). Daytime naps selectively consolidate Cantonese tones in non-tonal learners. <em>The Hanyang International Symposium on Phonetics and Cognitive Sciences of Language (HISPhonCog 2026)</em>, Seoul, South Korea.
+Qin, Q. Z., **Liang, J.**, Lai, S., & Zhang, C. (forthcoming). Daytime nap consolidates learning of Cantonese tones in non-tonal language speakers: Sleep-EEG evidence. <em>Society for the Neurobiology of Language 18th Annual Meeting (SNL 2026)</em>, Geneva, Switzerland.
 
-Wang, Y., **Liang, J.**, Myachykov, A., & Qin, Q. Z. (submitted). Multilingual experience predicts attentional control in dichotic listening among older adults: The mediating role of socioeconomic status. <em>The Hanyang International Symposium on Phonetics and Cognitive Sciences of Language (HISPhonCog 2026)</em>, Seoul, South Korea.
+Wang, Y., **Liang, J.**, Myachykov, A., & Qin, Q. Z. (2026). Multilingual experience predicts attentional control in dichotic listening among older adults: The mediating role of socioeconomic status. <em>The Hanyang International Symposium on Phonetics and Cognitive Sciences of Language (HISPhonCog 2026)</em>, Seoul, South Korea.
 
 Tremblay, A., Broersma, M., Cho, T., Kim, H., Qin, Q. Z., **Liang, J.**, Nuñez, A., & Terrazas, F. (2025). Cross-linguistic transfer in lexical stress perception: A cue-weighting typology. <em>The 6th joint meeting of the Acoustical Society of America and Acoustical Society of Japan</em>, Honolulu, HI. Poster Presentation.
 
