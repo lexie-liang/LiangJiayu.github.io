@@ -4,7 +4,7 @@ layout: homepage
 ---
 
 ## About Me
-I'm a research assistant in the <a href="https://slab-lab.github.io/" target="_blank">Speech, Learning, and the Brain (SLaB) Lab</a> at the Hong Kong University of Science and Technology, working under the mentorship of Prof. <a href="https://sites.google.com/site/qinzhenquentin/" target="_blank">Quentin Zhen QIN</a>. Before joining the lab, I was supervised by Prof. <a href="https://www.researchgate.net/profile/Hao-Zhang-39" target="_blank">Hao ZHANG</a> for my undergraduate studies. I'm interested in experimental phonetics, second/foreign language acquisition, and psycholinguistics.
+I'm an MPhil student at the Hong Kong University of Science and Technology and a member of the <a href="https://slab-lab.github.io/" target="_blank">Speech, Learning, and the Brain (SLaB) Lab</a>, under the supervision of Prof. <a href="https://sites.google.com/site/qinzhenquentin/" target="_blank">Quentin Zhen QIN</a>. Prior to starting my MPhil, I worked as a research assistant in the SLaB Lab for two years. I completed my undergraduate studies under the supervision of Prof. <a href="https://www.researchgate.net/profile/Hao-Zhang-39" target="_blank">Hao ZHANG</a>. My research interests include experimental phonetics, second/foreign language acquisition, and psycholinguistics.
 
 ## Research Interests
 - Production and Perception of Non-native Languages
@@ -13,9 +13,10 @@ I'm a research assistant in the <a href="https://slab-lab.github.io/" target="_b
 
 
 ## Education
-**BA in English** at Shandong University (Average Grade: 88.71/100)  [2020-2024]
+**MPhil in Linguistics** at Hong Kong University of Science and Technology  [2026-present]
 
-**GPA in discipline-related coursework**: 93.25/100<br>
+**BA in English** at Shandong University (Average Grade: 88.71/100)  [2020-2024]
+**GPA in undergraduate discipline-related coursework**: 93.25/100<br>
 English Phonetics (96), Phonetics and Brain Science (Excellent), Experimental Phonetics (92), Experimental Methods and 
 the Application of Instruments in Phonetics (95), Cognitive Neuroscience Experiment (90), Corpus Linguistics (93), 
 Python and Natural Language Processing (94)
@@ -25,7 +26,7 @@ Python and Natural Language Processing (94)
 
 <ul class="research-list">
   <li>
-    <strong>Research Assistant</strong> <span class="date">[Aug. 2024–Present]</span><br>
+    <strong>Research Assistant</strong> <span class="date">[Aug. 2024–Jun. 2026]</span><br>
     Hong Kong University of Science and Technology<br>
     Supervisor: Dr. Quentin Zhen QIN
   </li>
@@ -45,9 +46,7 @@ Python and Natural Language Processing (94)
 
 Zhang, H., & **Liang, J.** *(co-first author).* Benefits of melodic training on the production and perception of Cantonese level tones by Korean and Chinese older adults. *(Manuscript in preparation).*
 
-Tremblay, A., Broersma, M., Cho, T., Qin, Q. Z., Kim, H., & **Liang, J.** (preprint). Towards an attentional theory of second-language speech perception: Evidence from cue ecology. *PsyArXiv preprint.* <a href="https://osf.io/preprints/psyarxiv/4y3rm_v1" target="_blank">https://osf.io/preprints/psyarxiv/4y3rm_v1</a>
-
-Tremblay, A., Broersma, M., Cho, T., Qin, Q. Z., Kim, H., & **Liang, J.** (submitted). Towards an attentional theory of second-language speech perception: Evidence from cue ecology. *Cognition.*
+Tremblay, A., Broersma, M., Cho, T., Qin, Q. Z., Kim, H., & **Liang, J.** (2026). Towards an attentional theory of second-language speech perception: Evidence from cue ecology. *Cognition*, 276, 106671. <a href="https://doi.org/10.1016/j.cognition.2026.106671" target="_blank">https://doi.org/10.1016/j.cognition.2026.106671</a> [<a href="https://drive.google.com/file/d/18Lihx9pPQ5GjQ9hyOb0wRrDQ6FNc7qXY/view?usp=sharing" target="_blank">PDF</a>]
 
 **Liang, J.**, Zhang, H., Ma, W., & Ding, H. (2025). Effect of musical aptitude on the perception of English vowels: An eye-tracking investigation among native Mandarin speakers. <em>Journal of Speech, Language, and Hearing Research</em>, 68(10), 5021–5038. <a href="https://doi.org/10.1044/2025_JSLHR-24-00916" target="_blank">https://doi.org/10.1044/2025_JSLHR-24-00916</a> [<a href="assets/files/JYL.pdf" target="_blank">PDF</a>]
 
