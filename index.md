@@ -93,7 +93,7 @@ Wang, Y., **Liang, J.**, & Qin, Q. Z. (2025). The role of bilingual experiences 
       <li><strong>Project administration:</strong> Supported recruitment for a hard-to-reach population by distributing study posters on campus and assisting with online outreach (e.g., Facebook) to enroll non-tonal L1 English-speaking South Asian participants in Hong Kong.</li>
       <li><strong>Data collection:</strong> Ran sessions for 50 participants. Conducted in-lab EEG setup and recording preparation for nap sessions (cap fitting, gel injection, impedance/signal checks).</li>
       <li><strong>Data analysis:</strong> Performed sleep staging for EEG recording and curated participant-level sleep/behavior datasets. Analyzed behavioral data in R. Detected spindles/slow waves in Python (<a href="https://yasa-sleep.org/" target="_blank">YASA</a>) and related sleep metrics to learning outcomes using R regression models.</li>
-      <li><strong>Dissemination:</strong> Prepared and submitted a first-author abstract to HISPhonCog 2026.</li>
+      <li><strong>Dissemination:</strong> Prepared and submitted an abstract to SNL 2026 as a co-author.</li>
       <li><strong>Training &amp; supervision:</strong> Trained a part-time research assistant on standardized procedures and data-collection protocols.</li>
     </ul>
   </li>
