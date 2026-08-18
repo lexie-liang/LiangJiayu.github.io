@@ -15,7 +15,7 @@ I'm an MPhil student at the Hong Kong University of Science and Technology and a
 ## Education
 **MPhil in Linguistics** at Hong Kong University of Science and Technology  [2026-present]
 
-**BA in English** at Shandong University (Average Grade: 88.71/100)  [2020-2024]
+**BA in English** at Shandong University (Average Grade: 88.71/100)  [2020-2024]<br>
 **GPA in undergraduate discipline-related coursework**: 93.25/100<br>
 English Phonetics (96), Phonetics and Brain Science (Excellent), Experimental Phonetics (92), Experimental Methods and 
 the Application of Instruments in Phonetics (95), Cognitive Neuroscience Experiment (90), Corpus Linguistics (93), 
